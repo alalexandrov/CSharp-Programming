@@ -1,0 +1,5 @@
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_3\SimpleTaskWithOOP\bin\Debug\SimpleTaskWithOOP.exe.config
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_3\SimpleTaskWithOOP\bin\Debug\SimpleTaskWithOOP.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_3\SimpleTaskWithOOP\bin\Debug\SimpleTaskWithOOP.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_3\SimpleTaskWithOOP\obj\Debug\SimpleTaskWithOOP.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_3\SimpleTaskWithOOP\obj\Debug\SimpleTaskWithOOP.pdb

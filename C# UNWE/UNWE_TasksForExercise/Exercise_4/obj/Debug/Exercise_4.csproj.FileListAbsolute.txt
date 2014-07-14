@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_TasksForExercise\Exercise_4\bin\Debug\Exercise_4.exe.config
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_TasksForExercise\Exercise_4\bin\Debug\Exercise_4.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_TasksForExercise\Exercise_4\bin\Debug\Exercise_4.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_TasksForExercise\Exercise_4\obj\Debug\Exercise_4.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_TasksForExercise\Exercise_4\obj\Debug\Exercise_4.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_TasksForExercise\Exercise_4\obj\Debug\Exercise_4.pdb

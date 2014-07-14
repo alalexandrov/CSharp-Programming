@@ -1,0 +1,6 @@
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\1. ComplexArrTask\bin\Debug\ConsoleApplication1.exe.config
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\1. ComplexArrTask\obj\Debug\ConsoleApplication1.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\1. ComplexArrTask\obj\Debug\ConsoleApplication1.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\1. ComplexArrTask\bin\Debug\ConsoleApplication1.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\1. ComplexArrTask\bin\Debug\ConsoleApplication1.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\1. ComplexArrTask\obj\Debug\1. ComplexArrTask.csprojResolveAssemblyReference.cache

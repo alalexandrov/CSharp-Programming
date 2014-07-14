@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\CentralCreditRegisterDataSaver\bin\Debug\CentralCreditRegisterDataSaver.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\CentralCreditRegisterDataSaver\bin\Debug\CentralCreditRegisterDataSaver.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\CentralCreditRegisterDataSaver\bin\Debug\CentralCreditRegisterDataSaver.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\CentralCreditRegisterDataSaver\obj\Debug\CentralCreditRegisterDataSaver.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\CentralCreditRegisterDataSaver\obj\Debug\CentralCreditRegisterDataSaver.Form1.resources
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\CentralCreditRegisterDataSaver\obj\Debug\CentralCreditRegisterDataSaver.Properties.Resources.resources
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\CentralCreditRegisterDataSaver\obj\Debug\CentralCreditRegisterDataSaver.csproj.GenerateResource.Cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\CentralCreditRegisterDataSaver\obj\Debug\CentralCreditRegisterDataSaver.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\CentralCreditRegisterDataSaver\obj\Debug\CentralCreditRegisterDataSaver.pdb
+E:\Backup\UNWE\Основи на разработване на приложни програмни системи\UNWE_C#_Exercises\UNWE_Exercise_7\CentralCreditRegisterDataSaver\bin\Debug\CentralCreditRegisterDataSaver.exe.config
+E:\Backup\UNWE\Основи на разработване на приложни програмни системи\UNWE_C#_Exercises\UNWE_Exercise_7\CentralCreditRegisterDataSaver\obj\Debug\CentralCreditRegisterDataSaver.exe
+E:\Backup\UNWE\Основи на разработване на приложни програмни системи\UNWE_C#_Exercises\UNWE_Exercise_7\CentralCreditRegisterDataSaver\obj\Debug\CentralCreditRegisterDataSaver.pdb

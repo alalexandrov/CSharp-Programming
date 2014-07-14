@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\WordInSentenceCounter\bin\Debug\WordInSentenceCounter.exe.config
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\WordInSentenceCounter\bin\Debug\WordInSentenceCounter.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\WordInSentenceCounter\bin\Debug\WordInSentenceCounter.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\WordInSentenceCounter\obj\Debug\WordInSentenceCounter.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\WordInSentenceCounter\obj\Debug\WordInSentenceCounter.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\WordInSentenceCounter\obj\Debug\WordInSentenceCounter.csprojResolveAssemblyReference.cache

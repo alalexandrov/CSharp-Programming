@@ -1,0 +1,21 @@
+c:\users\alexander\documents\visual studio 2012\Projects\WindowsFormsExercise\MoneyConverter\bin\Debug\MoneyConverter.exe.config
+c:\users\alexander\documents\visual studio 2012\Projects\WindowsFormsExercise\MoneyConverter\bin\Debug\MoneyConverter.exe
+c:\users\alexander\documents\visual studio 2012\Projects\WindowsFormsExercise\MoneyConverter\bin\Debug\MoneyConverter.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\WindowsFormsExercise\MoneyConverter\obj\Debug\MoneyConverter.Form1.resources
+c:\users\alexander\documents\visual studio 2012\Projects\WindowsFormsExercise\MoneyConverter\obj\Debug\MoneyConverter.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2012\Projects\WindowsFormsExercise\MoneyConverter\obj\Debug\MoneyConverter.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2012\Projects\WindowsFormsExercise\MoneyConverter\obj\Debug\MoneyConverter.exe
+c:\users\alexander\documents\visual studio 2012\Projects\WindowsFormsExercise\MoneyConverter\obj\Debug\MoneyConverter.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\WindowsFormsExercise\MoneyConverter\obj\Debug\MoneyConverter.csprojResolveAssemblyReference.cache
+c:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\MoneyConverter\bin\Debug\MoneyConverter.exe.config
+c:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\MoneyConverter\obj\Debug\MoneyConverter.exe
+c:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\MoneyConverter\obj\Debug\MoneyConverter.pdb
+c:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\MoneyConverter\bin\Debug\MoneyConverter.exe
+c:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\MoneyConverter\bin\Debug\MoneyConverter.pdb
+c:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\MoneyConverter\obj\Debug\MoneyConverter.csprojResolveAssemblyReference.cache
+c:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\MoneyConverter\obj\Debug\MoneyConverter.Form1.resources
+c:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\MoneyConverter\obj\Debug\MoneyConverter.Properties.Resources.resources
+c:\Users\Alexander\Documents\Visual Studio 2013\Projects\UNWE_Exercise_7\MoneyConverter\obj\Debug\MoneyConverter.csproj.GenerateResource.Cache
+E:\Backup\UNWE\Основи на разработване на приложни програмни системи\UNWE_C#_Exercises\UNWE_Exercise_7\MoneyConverter\bin\Debug\MoneyConverter.exe.config
+E:\Backup\UNWE\Основи на разработване на приложни програмни системи\UNWE_C#_Exercises\UNWE_Exercise_7\MoneyConverter\obj\Debug\MoneyConverter.exe
+E:\Backup\UNWE\Основи на разработване на приложни програмни системи\UNWE_C#_Exercises\UNWE_Exercise_7\MoneyConverter\obj\Debug\MoneyConverter.pdb

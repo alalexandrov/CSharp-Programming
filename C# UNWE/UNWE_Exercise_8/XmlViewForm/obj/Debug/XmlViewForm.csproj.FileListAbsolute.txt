@@ -1,0 +1,8 @@
+c:\users\alexander\documents\visual studio 2013\Projects\UNWE_Exercise_8\XmlViewForm\bin\Debug\XmlViewForm.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\UNWE_Exercise_8\XmlViewForm\bin\Debug\XmlViewForm.exe
+c:\users\alexander\documents\visual studio 2013\Projects\UNWE_Exercise_8\XmlViewForm\bin\Debug\XmlViewForm.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\UNWE_Exercise_8\XmlViewForm\obj\Debug\XmlViewForm.Form1.resources
+c:\users\alexander\documents\visual studio 2013\Projects\UNWE_Exercise_8\XmlViewForm\obj\Debug\XmlViewForm.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2013\Projects\UNWE_Exercise_8\XmlViewForm\obj\Debug\XmlViewForm.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2013\Projects\UNWE_Exercise_8\XmlViewForm\obj\Debug\XmlViewForm.exe
+c:\users\alexander\documents\visual studio 2013\Projects\UNWE_Exercise_8\XmlViewForm\obj\Debug\XmlViewForm.pdb

@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_4\Exercise_1\obj\Debug\Exercise_1.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2012\Projects\UNWE_Exercise_4\Exercise_1\bin\Debug\ArrWithElemMultipliedBy5.exe.config
+C:\Users\Alexander\documents\visual studio 2012\Projects\UNWE_Exercise_4\Exercise_1\bin\Debug\ArrWithElemMultipliedBy5.exe
+C:\Users\Alexander\documents\visual studio 2012\Projects\UNWE_Exercise_4\Exercise_1\bin\Debug\ArrWithElemMultipliedBy5.pdb
+C:\Users\Alexander\documents\visual studio 2012\Projects\UNWE_Exercise_4\Exercise_1\obj\Debug\ArrWithElemMultipliedBy5.exe
+C:\Users\Alexander\documents\visual studio 2012\Projects\UNWE_Exercise_4\Exercise_1\obj\Debug\ArrWithElemMultipliedBy5.pdb

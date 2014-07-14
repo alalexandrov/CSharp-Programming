@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\LectionsAndExericisesCounter\bin\Debug\LectionsAndExericisesCounter.exe.config
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\LectionsAndExericisesCounter\bin\Debug\LectionsAndExericisesCounter.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\LectionsAndExericisesCounter\bin\Debug\LectionsAndExericisesCounter.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\LectionsAndExericisesCounter\obj\Debug\LectionsAndExericisesCounter.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\LectionsAndExericisesCounter\obj\Debug\LectionsAndExericisesCounter.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\LectionsAndExericisesCounter\obj\Debug\LectionsAndExericisesCounter.csprojResolveAssemblyReference.cache

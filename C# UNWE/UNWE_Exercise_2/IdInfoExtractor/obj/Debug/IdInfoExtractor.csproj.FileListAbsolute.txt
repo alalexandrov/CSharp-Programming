@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\IdInfoExtractor\bin\Debug\IdInfoExtractor.exe.config
+C:\Users\Alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\IdInfoExtractor\bin\Debug\IdInfoExtractor.exe
+C:\Users\Alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\IdInfoExtractor\bin\Debug\IdInfoExtractor.pdb
+C:\Users\Alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\IdInfoExtractor\obj\Debug\IdInfoExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\IdInfoExtractor\obj\Debug\IdInfoExtractor.exe
+C:\Users\Alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\IdInfoExtractor\obj\Debug\IdInfoExtractor.pdb

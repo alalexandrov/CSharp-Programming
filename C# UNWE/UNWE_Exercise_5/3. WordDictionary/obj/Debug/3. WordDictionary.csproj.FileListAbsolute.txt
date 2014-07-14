@@ -1,0 +1,6 @@
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\3. WordDictionary\bin\Debug\Exercise_3.exe.config
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\3. WordDictionary\bin\Debug\Exercise_3.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\3. WordDictionary\bin\Debug\Exercise_3.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\3. WordDictionary\obj\Debug\3. WordDictionary.csprojResolveAssemblyReference.cache
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\3. WordDictionary\obj\Debug\Exercise_3.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\3. WordDictionary\obj\Debug\Exercise_3.pdb

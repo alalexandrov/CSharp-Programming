@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\IsPrimeNumber\bin\Debug\IsPrimeNumber.exe.config
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\IsPrimeNumber\bin\Debug\IsPrimeNumber.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\IsPrimeNumber\bin\Debug\IsPrimeNumber.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\IsPrimeNumber\obj\Debug\IsPrimeNumber.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\IsPrimeNumber\obj\Debug\IsPrimeNumber.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\IsPrimeNumber\obj\Debug\IsPrimeNumber.csprojResolveAssemblyReference.cache

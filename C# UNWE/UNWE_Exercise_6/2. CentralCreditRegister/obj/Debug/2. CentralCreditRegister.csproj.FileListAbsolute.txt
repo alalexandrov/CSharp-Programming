@@ -1,0 +1,6 @@
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_6\2. CentralCreditRegister\bin\Debug\Task_2.exe.config
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_6\2. CentralCreditRegister\bin\Debug\Task_2.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_6\2. CentralCreditRegister\bin\Debug\Task_2.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_6\2. CentralCreditRegister\obj\Debug\2. CentralCreditRegister.csprojResolveAssemblyReference.cache
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_6\2. CentralCreditRegister\obj\Debug\Task_2.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_6\2. CentralCreditRegister\obj\Debug\Task_2.pdb

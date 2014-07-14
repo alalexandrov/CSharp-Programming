@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\WordToUpper\bin\Debug\WordToUpper.exe.config
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\WordToUpper\bin\Debug\WordToUpper.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\WordToUpper\bin\Debug\WordToUpper.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\WordToUpper\obj\Debug\WordToUpper.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\WordToUpper\obj\Debug\WordToUpper.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_2\WordToUpper\obj\Debug\WordToUpper.pdb

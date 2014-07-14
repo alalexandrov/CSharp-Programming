@@ -1,0 +1,6 @@
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\Task_1\bin\Debug\ArrWithElemMultipliedBy5.exe.config
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\Task_1\obj\Debug\ArrWithElemMultipliedBy5.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\Task_1\obj\Debug\ArrWithElemMultipliedBy5.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\Task_1\bin\Debug\ArrWithElemMultipliedBy5.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\Task_1\bin\Debug\ArrWithElemMultipliedBy5.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\Task_1\obj\Debug\Task_1.csprojResolveAssemblyReference.cache

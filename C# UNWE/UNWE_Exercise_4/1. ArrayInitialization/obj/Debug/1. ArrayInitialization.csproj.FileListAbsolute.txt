@@ -1,0 +1,3 @@
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\1. ArrayInitialization\bin\Debug\ArrWithElemMultipliedBy5.exe.config
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\1. ArrayInitialization\obj\Debug\ArrWithElemMultipliedBy5.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\1. ArrayInitialization\obj\Debug\ArrWithElemMultipliedBy5.pdb

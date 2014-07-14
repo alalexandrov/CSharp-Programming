@@ -1,0 +1,5 @@
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\5. MatrixPrinting\bin\Debug\Exercise_5.exe.config
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\5. MatrixPrinting\bin\Debug\Exercise_5.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\5. MatrixPrinting\bin\Debug\Exercise_5.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\5. MatrixPrinting\obj\Debug\Exercise_5.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_5\5. MatrixPrinting\obj\Debug\Exercise_5.pdb

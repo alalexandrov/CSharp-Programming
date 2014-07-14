@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyConverter", "MoneyConverter.csproj", "{134546AE-FEB7-4390-B282-A6C4BE5D7F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralCreditRegisterDataSaver", "..\CentralCreditRegisterDataSaver\CentralCreditRegisterDataSaver.csproj", "{C70BA060-4A9A-474E-8055-3C41B4C571A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{134546AE-FEB7-4390-B282-A6C4BE5D7F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134546AE-FEB7-4390-B282-A6C4BE5D7F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134546AE-FEB7-4390-B282-A6C4BE5D7F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134546AE-FEB7-4390-B282-A6C4BE5D7F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70BA060-4A9A-474E-8055-3C41B4C571A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70BA060-4A9A-474E-8055-3C41B4C571A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70BA060-4A9A-474E-8055-3C41B4C571A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70BA060-4A9A-474E-8055-3C41B4C571A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\PlayWithDigitsOfNumber\bin\Debug\PlayWithDigitsOfNumber.exe.config
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\PlayWithDigitsOfNumber\bin\Debug\PlayWithDigitsOfNumber.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\PlayWithDigitsOfNumber\bin\Debug\PlayWithDigitsOfNumber.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\PlayWithDigitsOfNumber\obj\Debug\PlayWithDigitsOfNumber.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\PlayWithDigitsOfNumber\obj\Debug\PlayWithDigitsOfNumber.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\PlayWithDigitsOfNumber\obj\Debug\PlayWithDigitsOfNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_6\1. DirectoryTraverser\bin\Debug\Task_1.exe.config
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_6\1. DirectoryTraverser\obj\Debug\Task_1.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_6\1. DirectoryTraverser\obj\Debug\Task_1.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_6\1. DirectoryTraverser\bin\Debug\Task_1.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_6\1. DirectoryTraverser\bin\Debug\Task_1.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_6\1. DirectoryTraverser\obj\Debug\1. DirectoryTraverser.csprojResolveAssemblyReference.cache

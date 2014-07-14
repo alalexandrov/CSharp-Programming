@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\OddOrEven\bin\Debug\OddOrEven.exe.config
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\OddOrEven\bin\Debug\OddOrEven.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\OddOrEven\bin\Debug\OddOrEven.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\OddOrEven\obj\Debug\OddOrEven.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_1\OddOrEven\obj\Debug\OddOrEven.pdb

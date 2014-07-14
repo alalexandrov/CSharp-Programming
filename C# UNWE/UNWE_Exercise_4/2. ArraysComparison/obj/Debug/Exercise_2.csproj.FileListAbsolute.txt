@@ -1,0 +1,11 @@
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_4\Exercise_2\bin\Debug\Exercise_2.exe.config
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_4\Exercise_2\bin\Debug\Exercise_2.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_4\Exercise_2\bin\Debug\Exercise_2.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_4\Exercise_2\obj\Debug\Exercise_2.exe
+c:\users\alexander\documents\visual studio 2012\Projects\UNWE_Exercise_4\Exercise_2\obj\Debug\Exercise_2.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\Exercise_2\bin\Debug\Exercise_2.exe.config
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\Exercise_2\obj\Debug\Exercise_2.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\Exercise_2\obj\Debug\Exercise_2.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\Exercise_2\bin\Debug\Exercise_2.exe
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\Exercise_2\bin\Debug\Exercise_2.pdb
+D:\Backup\GitHub\Git\C# Programing\C# UNWE\UNWE_Exercise_4\Exercise_2\obj\Debug\Exercise_2.csprojResolveAssemblyReference.cache

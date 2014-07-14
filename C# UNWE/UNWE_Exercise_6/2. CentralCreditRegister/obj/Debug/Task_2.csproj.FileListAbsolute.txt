@@ -1,0 +1,8 @@
+c:\Users\Alexander\Documents\Visual Studio 2012\Projects\Exercise_6\Task_2\bin\Debug\Task_2.exe.config
+c:\Users\Alexander\Documents\Visual Studio 2012\Projects\Exercise_6\Task_2\bin\Debug\Task_2.exe
+c:\Users\Alexander\Documents\Visual Studio 2012\Projects\Exercise_6\Task_2\bin\Debug\Task_2.pdb
+c:\Users\Alexander\Documents\Visual Studio 2012\Projects\Exercise_6\Task_2\obj\Debug\Task_2.exe
+c:\Users\Alexander\Documents\Visual Studio 2012\Projects\Exercise_6\Task_2\obj\Debug\Task_2.pdb
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\UNWE_Exercise_6\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\UNWE_Exercise_6\Task_2\obj\Debug\Task_2.exe
+C:\Users\Alexander\Documents\Visual Studio 2012\Projects\UNWE_Exercise_6\Task_2\obj\Debug\Task_2.pdb
