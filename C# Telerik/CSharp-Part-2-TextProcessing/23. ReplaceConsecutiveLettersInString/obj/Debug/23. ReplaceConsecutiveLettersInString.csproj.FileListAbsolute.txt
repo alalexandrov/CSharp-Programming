@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\23. ReplaceConsecutiveLettersInString\bin\Debug\_23.ReplaceConsecutiveLettersInString.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\23. ReplaceConsecutiveLettersInString\bin\Debug\_23.ReplaceConsecutiveLettersInString.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\23. ReplaceConsecutiveLettersInString\bin\Debug\_23.ReplaceConsecutiveLettersInString.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\23. ReplaceConsecutiveLettersInString\obj\Debug\_23.ReplaceConsecutiveLettersInString.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\23. ReplaceConsecutiveLettersInString\obj\Debug\_23.ReplaceConsecutiveLettersInString.pdb

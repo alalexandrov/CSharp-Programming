@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\8. VariableDependingOnUserChoice\bin\Debug\_8.VariableDependingOnUserChoice.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\8. VariableDependingOnUserChoice\bin\Debug\_8.VariableDependingOnUserChoice.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\8. VariableDependingOnUserChoice\bin\Debug\_8.VariableDependingOnUserChoice.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\8. VariableDependingOnUserChoice\obj\Debug\_8.VariableDependingOnUserChoice.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\8. VariableDependingOnUserChoice\obj\Debug\_8.VariableDependingOnUserChoice.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\8. VariableDependingOnUserChoice\obj\Debug\8. VariableDependingOnUserChoice.csprojResolveAssemblyReference.cache

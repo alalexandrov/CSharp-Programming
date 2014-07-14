@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\7. AssigningStringVariables\bin\Debug\_7.AssigningStringVariables.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\7. AssigningStringVariables\bin\Debug\_7.AssigningStringVariables.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\7. AssigningStringVariables\bin\Debug\_7.AssigningStringVariables.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\7. AssigningStringVariables\obj\Debug\_7.AssigningStringVariables.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\7. AssigningStringVariables\obj\Debug\_7.AssigningStringVariables.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\7. AssigningStringVariables\obj\Debug\7. AssigningStringVariables.csprojResolveAssemblyReference.cache

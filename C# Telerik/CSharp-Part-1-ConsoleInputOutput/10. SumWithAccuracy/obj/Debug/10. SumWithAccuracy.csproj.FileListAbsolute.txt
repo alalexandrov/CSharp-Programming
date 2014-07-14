@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\10. SumWithAccuracy\bin\Debug\_10.SumWithAccuracy.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\10. SumWithAccuracy\bin\Debug\_10.SumWithAccuracy.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\10. SumWithAccuracy\bin\Debug\_10.SumWithAccuracy.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\10. SumWithAccuracy\obj\Debug\_10.SumWithAccuracy.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\10. SumWithAccuracy\obj\Debug\_10.SumWithAccuracy.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\10. SumWithAccuracy\obj\Debug\10. SumWithAccuracy.csprojResolveAssemblyReference.cache

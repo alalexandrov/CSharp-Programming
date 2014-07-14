@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\3. FloatingPointNumComparison\bin\Debug\_3.FloatingPointNumComparison.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\3. FloatingPointNumComparison\bin\Debug\_3.FloatingPointNumComparison.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\3. FloatingPointNumComparison\bin\Debug\_3.FloatingPointNumComparison.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\3. FloatingPointNumComparison\obj\Debug\_3.FloatingPointNumComparison.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\3. FloatingPointNumComparison\obj\Debug\_3.FloatingPointNumComparison.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\3. FloatingPointNumComparison\obj\Debug\3. FloatingPointNumComparison.csprojResolveAssemblyReference.cache

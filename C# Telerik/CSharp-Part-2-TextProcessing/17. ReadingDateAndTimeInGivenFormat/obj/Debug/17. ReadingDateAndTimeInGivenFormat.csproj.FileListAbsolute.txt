@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\17. ReadingDateAndTimeInGivenFormat\bin\Debug\_17.ReadingDateAndTimeInGivenFormat.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\17. ReadingDateAndTimeInGivenFormat\bin\Debug\_17.ReadingDateAndTimeInGivenFormat.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\17. ReadingDateAndTimeInGivenFormat\bin\Debug\_17.ReadingDateAndTimeInGivenFormat.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\17. ReadingDateAndTimeInGivenFormat\obj\Debug\_17.ReadingDateAndTimeInGivenFormat.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\17. ReadingDateAndTimeInGivenFormat\obj\Debug\_17.ReadingDateAndTimeInGivenFormat.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\17. ReadingDateAndTimeInGivenFormat\obj\Debug\17. ReadingDateAndTimeInGivenFormat.csprojResolveAssemblyReference.cache

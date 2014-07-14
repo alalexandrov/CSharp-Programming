@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\6. CalcSumOfFactorielFraction\bin\Debug\_6.CalcSumOfFactorielFraction.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\6. CalcSumOfFactorielFraction\bin\Debug\_6.CalcSumOfFactorielFraction.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\6. CalcSumOfFactorielFraction\bin\Debug\_6.CalcSumOfFactorielFraction.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\6. CalcSumOfFactorielFraction\obj\Debug\_6.CalcSumOfFactorielFraction.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\6. CalcSumOfFactorielFraction\obj\Debug\_6.CalcSumOfFactorielFraction.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\6. CalcSumOfFactorielFraction\obj\Debug\6. CalcSumOfFactorielFraction.csprojResolveAssemblyReference.cache

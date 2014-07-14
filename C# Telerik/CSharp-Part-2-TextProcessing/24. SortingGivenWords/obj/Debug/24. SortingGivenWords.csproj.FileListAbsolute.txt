@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\24. SortingGivenWords\bin\Debug\_24.SortingGivenWords.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\24. SortingGivenWords\bin\Debug\_24.SortingGivenWords.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\24. SortingGivenWords\bin\Debug\_24.SortingGivenWords.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\24. SortingGivenWords\obj\Debug\_24.SortingGivenWords.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\24. SortingGivenWords\obj\Debug\_24.SortingGivenWords.pdb

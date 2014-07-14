@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\4. IntegerWithHexValue\bin\Debug\_4.IntegerWithHexValue.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\4. IntegerWithHexValue\bin\Debug\_4.IntegerWithHexValue.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\4. IntegerWithHexValue\bin\Debug\_4.IntegerWithHexValue.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\4. IntegerWithHexValue\obj\Debug\_4.IntegerWithHexValue.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\4. IntegerWithHexValue\obj\Debug\_4.IntegerWithHexValue.pdb

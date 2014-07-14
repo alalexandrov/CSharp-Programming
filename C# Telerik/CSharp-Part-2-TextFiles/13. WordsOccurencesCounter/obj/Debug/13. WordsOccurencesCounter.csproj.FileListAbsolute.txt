@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\13. WordsOccurencesCounter\bin\Debug\_13.WordsOccurencesCounter.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\13. WordsOccurencesCounter\bin\Debug\_13.WordsOccurencesCounter.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\13. WordsOccurencesCounter\bin\Debug\_13.WordsOccurencesCounter.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\13. WordsOccurencesCounter\obj\Debug\_13.WordsOccurencesCounter.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\13. WordsOccurencesCounter\obj\Debug\_13.WordsOccurencesCounter.pdb

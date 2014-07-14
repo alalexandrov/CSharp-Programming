@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\3. TheLongestSeuenceOfEqElem\bin\Debug\_3.TheLongestSeuenceOfEqElem.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\3. TheLongestSeuenceOfEqElem\bin\Debug\_3.TheLongestSeuenceOfEqElem.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\3. TheLongestSeuenceOfEqElem\bin\Debug\_3.TheLongestSeuenceOfEqElem.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\3. TheLongestSeuenceOfEqElem\obj\Debug\3. TheLongestSeuenceOfEqElem.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\3. TheLongestSeuenceOfEqElem\obj\Debug\_3.TheLongestSeuenceOfEqElem.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\3. TheLongestSeuenceOfEqElem\obj\Debug\_3.TheLongestSeuenceOfEqElem.pdb

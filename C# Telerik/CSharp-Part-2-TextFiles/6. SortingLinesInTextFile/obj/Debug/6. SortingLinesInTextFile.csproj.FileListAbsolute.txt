@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\6. SortingLinesInTextFile\bin\Debug\_6.SortingLinesInTextFile.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\6. SortingLinesInTextFile\bin\Debug\_6.SortingLinesInTextFile.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\6. SortingLinesInTextFile\bin\Debug\_6.SortingLinesInTextFile.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\6. SortingLinesInTextFile\obj\Debug\_6.SortingLinesInTextFile.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\6. SortingLinesInTextFile\obj\Debug\_6.SortingLinesInTextFile.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\6. SortingLinesInTextFile\obj\Debug\6. SortingLinesInTextFile.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\1. StringBuilderExtension\bin\Debug\_1.StringBuilderExtension.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\1. StringBuilderExtension\bin\Debug\_1.StringBuilderExtension.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\1. StringBuilderExtension\bin\Debug\_1.StringBuilderExtension.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\1. StringBuilderExtension\obj\Debug\1. StringBuilderExtension.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\1. StringBuilderExtension\obj\Debug\_1.StringBuilderExtension.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\1. StringBuilderExtension\obj\Debug\_1.StringBuilderExtension.pdb

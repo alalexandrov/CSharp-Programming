@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\4. TriangleSurfaceCalcMethods\bin\Debug\_4.TriangleSurfaceCalcMethods.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\4. TriangleSurfaceCalcMethods\bin\Debug\_4.TriangleSurfaceCalcMethods.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\4. TriangleSurfaceCalcMethods\bin\Debug\_4.TriangleSurfaceCalcMethods.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\4. TriangleSurfaceCalcMethods\obj\Debug\4. TriangleSurfaceCalcMethods.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\4. TriangleSurfaceCalcMethods\obj\Debug\_4.TriangleSurfaceCalcMethods.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\4. TriangleSurfaceCalcMethods\obj\Debug\_4.TriangleSurfaceCalcMethods.pdb

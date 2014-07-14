@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\2. PersonClass\bin\Debug\_2.PersonClass.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\2. PersonClass\bin\Debug\_2.PersonClass.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\2. PersonClass\bin\Debug\_2.PersonClass.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\2. PersonClass\obj\Debug\_2.PersonClass.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\2. PersonClass\obj\Debug\_2.PersonClass.pdb

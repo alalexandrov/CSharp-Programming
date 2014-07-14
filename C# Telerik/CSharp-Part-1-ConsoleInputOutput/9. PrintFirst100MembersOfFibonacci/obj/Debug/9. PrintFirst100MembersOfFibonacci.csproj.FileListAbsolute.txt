@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\9. PrintFirst100MembersOfFibonacci\bin\Debug\_9.PrintFirst100MembersOfFibonacci.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\9. PrintFirst100MembersOfFibonacci\bin\Debug\_9.PrintFirst100MembersOfFibonacci.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\9. PrintFirst100MembersOfFibonacci\bin\Debug\_9.PrintFirst100MembersOfFibonacci.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\9. PrintFirst100MembersOfFibonacci\obj\Debug\_9.PrintFirst100MembersOfFibonacci.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\9. PrintFirst100MembersOfFibonacci\obj\Debug\_9.PrintFirst100MembersOfFibonacci.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\9. PrintFirst100MembersOfFibonacci\obj\Debug\9. PrintFirst100MembersOfFibonacci.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\12. UrlParser\bin\Debug\_12.UrlParser.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\12. UrlParser\bin\Debug\_12.UrlParser.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\12. UrlParser\bin\Debug\_12.UrlParser.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\12. UrlParser\obj\Debug\_12.UrlParser.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\12. UrlParser\obj\Debug\_12.UrlParser.pdb

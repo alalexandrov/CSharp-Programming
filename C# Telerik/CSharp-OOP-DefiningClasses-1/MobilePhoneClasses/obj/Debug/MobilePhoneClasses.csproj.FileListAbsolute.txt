@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-1\MobilePhoneClasses\bin\Debug\MobilePhoneClasses.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-1\MobilePhoneClasses\bin\Debug\MobilePhoneClasses.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-1\MobilePhoneClasses\bin\Debug\MobilePhoneClasses.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-1\MobilePhoneClasses\obj\Debug\MobilePhoneClasses.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-1\MobilePhoneClasses\obj\Debug\MobilePhoneClasses.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-1\MobilePhoneClasses\obj\Debug\MobilePhoneClasses.pdb

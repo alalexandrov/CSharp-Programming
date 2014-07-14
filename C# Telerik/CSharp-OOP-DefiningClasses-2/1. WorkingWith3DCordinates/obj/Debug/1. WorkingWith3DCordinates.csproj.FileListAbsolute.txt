@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-2\1. WorkingWith3DCordinates\bin\Debug\_1.WorkingWith3DCordinates.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-2\1. WorkingWith3DCordinates\obj\Debug\1. WorkingWith3DCordinates.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-2\1. WorkingWith3DCordinates\bin\Debug\_1.WorkingWith3DCordinates.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-2\1. WorkingWith3DCordinates\bin\Debug\_1.WorkingWith3DCordinates.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-2\1. WorkingWith3DCordinates\obj\Debug\_1.WorkingWith3DCordinates.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-2\1. WorkingWith3DCordinates\obj\Debug\_1.WorkingWith3DCordinates.pdb

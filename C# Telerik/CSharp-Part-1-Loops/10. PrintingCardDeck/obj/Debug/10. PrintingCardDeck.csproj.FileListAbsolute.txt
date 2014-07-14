@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\10. PrintingCardDeck\bin\Debug\_10.PrintingCardDeck.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\10. PrintingCardDeck\bin\Debug\_10.PrintingCardDeck.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\10. PrintingCardDeck\bin\Debug\_10.PrintingCardDeck.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\10. PrintingCardDeck\obj\Debug\_10.PrintingCardDeck.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\10. PrintingCardDeck\obj\Debug\_10.PrintingCardDeck.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\10. PrintingCardDeck\obj\Debug\10. PrintingCardDeck.csprojResolveAssemblyReference.cache

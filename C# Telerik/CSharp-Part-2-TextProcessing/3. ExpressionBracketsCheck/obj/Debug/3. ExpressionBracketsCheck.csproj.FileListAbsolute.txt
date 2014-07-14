@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\3. ExpressionBracketsCheck\bin\Debug\_3.ExpressionBracketsCheck.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\3. ExpressionBracketsCheck\bin\Debug\_3.ExpressionBracketsCheck.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\3. ExpressionBracketsCheck\bin\Debug\_3.ExpressionBracketsCheck.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\3. ExpressionBracketsCheck\obj\Debug\3. ExpressionBracketsCheck.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\3. ExpressionBracketsCheck\obj\Debug\_3.ExpressionBracketsCheck.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\3. ExpressionBracketsCheck\obj\Debug\_3.ExpressionBracketsCheck.pdb

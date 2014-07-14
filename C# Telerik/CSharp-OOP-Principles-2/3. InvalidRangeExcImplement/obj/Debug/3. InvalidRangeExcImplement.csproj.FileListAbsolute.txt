@@ -1,0 +1,5 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\3. InvalidRangeExcImplement\bin\Debug\_3.InvalidRangeExcImplement.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\3. InvalidRangeExcImplement\bin\Debug\_3.InvalidRangeExcImplement.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\3. InvalidRangeExcImplement\bin\Debug\_3.InvalidRangeExcImplement.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\3. InvalidRangeExcImplement\obj\Debug\_3.InvalidRangeExcImplement.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\3. InvalidRangeExcImplement\obj\Debug\_3.InvalidRangeExcImplement.pdb

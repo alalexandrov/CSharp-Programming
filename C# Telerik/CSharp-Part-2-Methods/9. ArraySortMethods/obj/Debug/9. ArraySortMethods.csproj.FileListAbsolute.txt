@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\9. ArraySortMethods\bin\Debug\_9.ArraySortMethods.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\9. ArraySortMethods\bin\Debug\_9.ArraySortMethods.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\9. ArraySortMethods\bin\Debug\_9.ArraySortMethods.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\9. ArraySortMethods\obj\Debug\_9.ArraySortMethods.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\9. ArraySortMethods\obj\Debug\_9.ArraySortMethods.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\9. ArraySortMethods\obj\Debug\9. ArraySortMethods.csprojResolveAssemblyReference.cache

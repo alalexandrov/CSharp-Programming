@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\10. BitAtPositionCheck\bin\Debug\_10.BitAtPositionCheck.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\10. BitAtPositionCheck\bin\Debug\_10.BitAtPositionCheck.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\10. BitAtPositionCheck\bin\Debug\_10.BitAtPositionCheck.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\10. BitAtPositionCheck\obj\Debug\_10.BitAtPositionCheck.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\10. BitAtPositionCheck\obj\Debug\_10.BitAtPositionCheck.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\10. BitAtPositionCheck\obj\Debug\10. BitAtPositionCheck.csprojResolveAssemblyReference.cache

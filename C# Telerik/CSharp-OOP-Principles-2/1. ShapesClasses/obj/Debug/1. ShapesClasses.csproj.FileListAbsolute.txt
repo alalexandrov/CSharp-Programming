@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\1. ShapesClasses\bin\Debug\_1.ShapesClasses.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\1. ShapesClasses\bin\Debug\_1.ShapesClasses.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\1. ShapesClasses\bin\Debug\_1.ShapesClasses.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\1. ShapesClasses\obj\Debug\1. ShapesClasses.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\1. ShapesClasses\obj\Debug\_1.ShapesClasses.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\1. ShapesClasses\obj\Debug\_1.ShapesClasses.pdb

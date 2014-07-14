@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\4. NumberOccurencesInArrCount\bin\Debug\_4.NumberOccurencesInArrCount.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\4. NumberOccurencesInArrCount\bin\Debug\_4.NumberOccurencesInArrCount.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\4. NumberOccurencesInArrCount\bin\Debug\_4.NumberOccurencesInArrCount.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\4. NumberOccurencesInArrCount\obj\Debug\_4.NumberOccurencesInArrCount.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\4. NumberOccurencesInArrCount\obj\Debug\_4.NumberOccurencesInArrCount.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\4. NumberOccurencesInArrCount\obj\Debug\4. NumberOccurencesInArrCount.csprojResolveAssemblyReference.cache

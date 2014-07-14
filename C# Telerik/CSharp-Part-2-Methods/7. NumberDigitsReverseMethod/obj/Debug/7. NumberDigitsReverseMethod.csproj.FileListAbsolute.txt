@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\7. NumberDigitsReverseMethod\bin\Debug\_7.NumberDigitsReverseMethod.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\7. NumberDigitsReverseMethod\bin\Debug\_7.NumberDigitsReverseMethod.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\7. NumberDigitsReverseMethod\bin\Debug\_7.NumberDigitsReverseMethod.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\7. NumberDigitsReverseMethod\obj\Debug\_7.NumberDigitsReverseMethod.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\7. NumberDigitsReverseMethod\obj\Debug\_7.NumberDigitsReverseMethod.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\7. NumberDigitsReverseMethod\obj\Debug\7. NumberDigitsReverseMethod.csprojResolveAssemblyReference.cache

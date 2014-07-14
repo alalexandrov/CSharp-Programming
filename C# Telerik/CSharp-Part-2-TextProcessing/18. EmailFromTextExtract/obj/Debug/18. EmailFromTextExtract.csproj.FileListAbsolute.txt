@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\18. EmailFromTextExtract\bin\Debug\_18.EmailFromTextExtract.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\18. EmailFromTextExtract\bin\Debug\_18.EmailFromTextExtract.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\18. EmailFromTextExtract\bin\Debug\_18.EmailFromTextExtract.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\18. EmailFromTextExtract\obj\Debug\_18.EmailFromTextExtract.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\18. EmailFromTextExtract\obj\Debug\_18.EmailFromTextExtract.pdb

@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\9. ForbiddenWordsReplace\bin\Debug\_9.ForbiddenWordsReplace.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\9. ForbiddenWordsReplace\bin\Debug\_9.ForbiddenWordsReplace.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\9. ForbiddenWordsReplace\bin\Debug\_9.ForbiddenWordsReplace.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\9. ForbiddenWordsReplace\obj\Debug\_9.ForbiddenWordsReplace.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\9. ForbiddenWordsReplace\obj\Debug\_9.ForbiddenWordsReplace.pdb

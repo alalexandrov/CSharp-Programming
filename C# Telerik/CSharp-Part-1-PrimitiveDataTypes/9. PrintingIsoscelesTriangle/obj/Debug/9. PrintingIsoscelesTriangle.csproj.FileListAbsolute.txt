@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\9. PrintingIsoscelesTriangle\bin\Debug\_9.PrintingIsoscelesTriangle.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\9. PrintingIsoscelesTriangle\bin\Debug\_9.PrintingIsoscelesTriangle.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\9. PrintingIsoscelesTriangle\bin\Debug\_9.PrintingIsoscelesTriangle.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\9. PrintingIsoscelesTriangle\obj\Debug\_9.PrintingIsoscelesTriangle.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\9. PrintingIsoscelesTriangle\obj\Debug\_9.PrintingIsoscelesTriangle.pdb

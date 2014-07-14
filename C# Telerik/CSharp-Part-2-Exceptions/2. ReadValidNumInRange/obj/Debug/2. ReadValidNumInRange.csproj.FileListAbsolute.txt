@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\2. ReadValidNumInRange\bin\Debug\_2.ReadValidNumInRange.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\2. ReadValidNumInRange\bin\Debug\_2.ReadValidNumInRange.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\2. ReadValidNumInRange\bin\Debug\_2.ReadValidNumInRange.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\2. ReadValidNumInRange\obj\Debug\_2.ReadValidNumInRange.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\2. ReadValidNumInRange\obj\Debug\_2.ReadValidNumInRange.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\2. ReadValidNumInRange\obj\Debug\2. ReadValidNumInRange.csprojResolveAssemblyReference.cache

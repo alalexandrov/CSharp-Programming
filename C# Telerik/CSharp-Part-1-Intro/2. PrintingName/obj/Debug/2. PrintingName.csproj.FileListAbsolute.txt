@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\2. PrintingName\bin\Debug\_2.PrintingName.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\2. PrintingName\bin\Debug\_2.PrintingName.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\2. PrintingName\bin\Debug\_2.PrintingName.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\2. PrintingName\obj\Debug\_2.PrintingName.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\2. PrintingName\obj\Debug\_2.PrintingName.pdb

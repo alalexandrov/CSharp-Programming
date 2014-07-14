@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\2. TheSignOfProductWithoutCalc\bin\Debug\_2.TheSignOfProductWithoutCalc.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\2. TheSignOfProductWithoutCalc\bin\Debug\_2.TheSignOfProductWithoutCalc.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\2. TheSignOfProductWithoutCalc\bin\Debug\_2.TheSignOfProductWithoutCalc.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\2. TheSignOfProductWithoutCalc\obj\Debug\_2.TheSignOfProductWithoutCalc.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\2. TheSignOfProductWithoutCalc\obj\Debug\_2.TheSignOfProductWithoutCalc.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\2. TheSignOfProductWithoutCalc\obj\Debug\2. TheSignOfProductWithoutCalc.csprojResolveAssemblyReference.cache

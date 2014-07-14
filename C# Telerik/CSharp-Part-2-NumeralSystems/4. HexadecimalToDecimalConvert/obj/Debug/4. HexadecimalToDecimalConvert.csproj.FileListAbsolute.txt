@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\4. HexadecimalToDecimalConvert\bin\Debug\_4.HexadecimalToDecimalConvert.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\4. HexadecimalToDecimalConvert\bin\Debug\_4.HexadecimalToDecimalConvert.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\4. HexadecimalToDecimalConvert\bin\Debug\_4.HexadecimalToDecimalConvert.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\4. HexadecimalToDecimalConvert\obj\Debug\4. HexadecimalToDecimalConvert.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\4. HexadecimalToDecimalConvert\obj\Debug\_4.HexadecimalToDecimalConvert.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\4. HexadecimalToDecimalConvert\obj\Debug\_4.HexadecimalToDecimalConvert.pdb

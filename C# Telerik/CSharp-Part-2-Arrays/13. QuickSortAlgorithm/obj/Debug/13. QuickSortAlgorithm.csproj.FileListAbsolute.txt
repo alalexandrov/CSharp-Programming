@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\13. QuickSortAlgorithm\bin\Debug\_13.QuickSortAlgorithm.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\13. QuickSortAlgorithm\bin\Debug\_13.QuickSortAlgorithm.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\13. QuickSortAlgorithm\bin\Debug\_13.QuickSortAlgorithm.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\13. QuickSortAlgorithm\obj\Debug\_13.QuickSortAlgorithm.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\13. QuickSortAlgorithm\obj\Debug\_13.QuickSortAlgorithm.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\13. QuickSortAlgorithm\obj\Debug\13. QuickSortAlgorithm.csprojResolveAssemblyReference.cache

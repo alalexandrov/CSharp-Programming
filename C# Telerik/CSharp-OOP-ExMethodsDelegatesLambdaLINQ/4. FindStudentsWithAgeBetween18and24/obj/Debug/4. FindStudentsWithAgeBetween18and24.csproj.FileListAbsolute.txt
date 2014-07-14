@@ -1,0 +1,8 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\4. FindStudentsWithAgeBetween18and24\bin\Debug\_4.FindStudentsWithAgeBetween18and24.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\4. FindStudentsWithAgeBetween18and24\obj\Debug\4. FindStudentsWithAgeBetween18and24.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\4. FindStudentsWithAgeBetween18and24\bin\Debug\_4.FindStudentsWithAgeBetween18and24.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\4. FindStudentsWithAgeBetween18and24\bin\Debug\_4.FindStudentsWithAgeBetween18and24.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\4. FindStudentsWithAgeBetween18and24\bin\Debug\_3.FirstNameBeforeLastNameStudent.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\4. FindStudentsWithAgeBetween18and24\bin\Debug\_3.FirstNameBeforeLastNameStudent.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\4. FindStudentsWithAgeBetween18and24\obj\Debug\_4.FindStudentsWithAgeBetween18and24.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\4. FindStudentsWithAgeBetween18and24\obj\Debug\_4.FindStudentsWithAgeBetween18and24.pdb

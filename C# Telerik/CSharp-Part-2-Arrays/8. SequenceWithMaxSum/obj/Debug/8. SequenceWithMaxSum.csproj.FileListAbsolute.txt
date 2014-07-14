@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\8. SequenceWithMaxSum\bin\Debug\_8.SequenceWithMaxSum.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\8. SequenceWithMaxSum\bin\Debug\_8.SequenceWithMaxSum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\8. SequenceWithMaxSum\bin\Debug\_8.SequenceWithMaxSum.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\8. SequenceWithMaxSum\obj\Debug\8. SequenceWithMaxSum.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\8. SequenceWithMaxSum\obj\Debug\_8.SequenceWithMaxSum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\8. SequenceWithMaxSum\obj\Debug\_8.SequenceWithMaxSum.pdb

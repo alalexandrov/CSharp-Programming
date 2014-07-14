@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\3. LastDigitExtractMethod\bin\Debug\_3.LastDigitExtractMethod.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\3. LastDigitExtractMethod\bin\Debug\_3.LastDigitExtractMethod.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\3. LastDigitExtractMethod\bin\Debug\_3.LastDigitExtractMethod.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\3. LastDigitExtractMethod\obj\Debug\_3.LastDigitExtractMethod.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\3. LastDigitExtractMethod\obj\Debug\_3.LastDigitExtractMethod.pdb

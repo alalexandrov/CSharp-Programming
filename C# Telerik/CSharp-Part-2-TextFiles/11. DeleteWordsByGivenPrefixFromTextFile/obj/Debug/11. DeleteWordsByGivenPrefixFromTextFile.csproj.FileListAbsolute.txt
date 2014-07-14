@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\11. DeleteWordsByGivenPrefixFromTextFile\bin\Debug\_11.DeleteWordsByGivenPrefixFromTextFile.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\11. DeleteWordsByGivenPrefixFromTextFile\bin\Debug\_11.DeleteWordsByGivenPrefixFromTextFile.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\11. DeleteWordsByGivenPrefixFromTextFile\bin\Debug\_11.DeleteWordsByGivenPrefixFromTextFile.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\11. DeleteWordsByGivenPrefixFromTextFile\obj\Debug\11. DeleteWordsByGivenPrefixFromTextFile.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\11. DeleteWordsByGivenPrefixFromTextFile\obj\Debug\_11.DeleteWordsByGivenPrefixFromTextFile.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\11. DeleteWordsByGivenPrefixFromTextFile\obj\Debug\_11.DeleteWordsByGivenPrefixFromTextFile.pdb

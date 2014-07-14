@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\2. SquareWIthMaxSum\bin\Debug\_2.SquareWIthMaxSum.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\2. SquareWIthMaxSum\bin\Debug\_2.SquareWIthMaxSum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\2. SquareWIthMaxSum\bin\Debug\_2.SquareWIthMaxSum.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\2. SquareWIthMaxSum\obj\Debug\2. SquareWIthMaxSum.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\2. SquareWIthMaxSum\obj\Debug\_2.SquareWIthMaxSum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\2. SquareWIthMaxSum\obj\Debug\_2.SquareWIthMaxSum.pdb

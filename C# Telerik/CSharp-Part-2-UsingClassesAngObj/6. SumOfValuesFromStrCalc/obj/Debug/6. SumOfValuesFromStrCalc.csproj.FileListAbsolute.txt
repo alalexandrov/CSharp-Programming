@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\6. SumOfValuesFromStrCalc\bin\Debug\_6.SumOfValuesFromStrCalc.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\6. SumOfValuesFromStrCalc\bin\Debug\_6.SumOfValuesFromStrCalc.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\6. SumOfValuesFromStrCalc\bin\Debug\_6.SumOfValuesFromStrCalc.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\6. SumOfValuesFromStrCalc\obj\Debug\_6.SumOfValuesFromStrCalc.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\6. SumOfValuesFromStrCalc\obj\Debug\_6.SumOfValuesFromStrCalc.pdb

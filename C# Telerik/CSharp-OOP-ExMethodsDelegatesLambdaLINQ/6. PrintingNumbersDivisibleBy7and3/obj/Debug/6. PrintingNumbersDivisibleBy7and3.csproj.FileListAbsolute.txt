@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\6. PrintingNumbersDivisibleBy7and3\bin\Debug\_6.PrintingNumbersDivisibleBy7and3.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\6. PrintingNumbersDivisibleBy7and3\bin\Debug\_6.PrintingNumbersDivisibleBy7and3.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\6. PrintingNumbersDivisibleBy7and3\bin\Debug\_6.PrintingNumbersDivisibleBy7and3.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\6. PrintingNumbersDivisibleBy7and3\obj\Debug\_6.PrintingNumbersDivisibleBy7and3.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\6. PrintingNumbersDivisibleBy7and3\obj\Debug\_6.PrintingNumbersDivisibleBy7and3.pdb

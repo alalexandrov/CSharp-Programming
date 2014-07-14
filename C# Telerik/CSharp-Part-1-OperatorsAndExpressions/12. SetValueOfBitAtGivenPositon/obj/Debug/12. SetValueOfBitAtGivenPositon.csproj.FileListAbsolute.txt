@@ -1,0 +1,5 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\12. SetValueOfBitAtGivenPositon\bin\Debug\_12.SetValueOfBitAtGivenPositon.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\12. SetValueOfBitAtGivenPositon\bin\Debug\_12.SetValueOfBitAtGivenPositon.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\12. SetValueOfBitAtGivenPositon\bin\Debug\_12.SetValueOfBitAtGivenPositon.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\12. SetValueOfBitAtGivenPositon\obj\Debug\_12.SetValueOfBitAtGivenPositon.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\12. SetValueOfBitAtGivenPositon\obj\Debug\_12.SetValueOfBitAtGivenPositon.pdb

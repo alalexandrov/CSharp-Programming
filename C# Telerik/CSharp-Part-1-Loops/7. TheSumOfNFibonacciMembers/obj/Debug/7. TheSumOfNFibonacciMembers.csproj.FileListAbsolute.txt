@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\7. TheSumOfNFibonacciMembers\bin\Debug\_7.TheSumOfNFibonacciMembers.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\7. TheSumOfNFibonacciMembers\bin\Debug\_7.TheSumOfNFibonacciMembers.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\7. TheSumOfNFibonacciMembers\bin\Debug\_7.TheSumOfNFibonacciMembers.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\7. TheSumOfNFibonacciMembers\obj\Debug\_7.TheSumOfNFibonacciMembers.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\7. TheSumOfNFibonacciMembers\obj\Debug\_7.TheSumOfNFibonacciMembers.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\7. TheSumOfNFibonacciMembers\obj\Debug\7. TheSumOfNFibonacciMembers.csprojResolveAssemblyReference.cache

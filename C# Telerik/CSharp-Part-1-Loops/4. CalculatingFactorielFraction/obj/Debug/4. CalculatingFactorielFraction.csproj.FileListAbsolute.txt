@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\4. CalculatingFactorielFraction\bin\Debug\_4.CalculatingFactorielFraction.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\4. CalculatingFactorielFraction\bin\Debug\_4.CalculatingFactorielFraction.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\4. CalculatingFactorielFraction\bin\Debug\_4.CalculatingFactorielFraction.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\4. CalculatingFactorielFraction\obj\Debug\4. CalculatingFactorielFraction.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\4. CalculatingFactorielFraction\obj\Debug\_4.CalculatingFactorielFraction.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\4. CalculatingFactorielFraction\obj\Debug\_4.CalculatingFactorielFraction.pdb

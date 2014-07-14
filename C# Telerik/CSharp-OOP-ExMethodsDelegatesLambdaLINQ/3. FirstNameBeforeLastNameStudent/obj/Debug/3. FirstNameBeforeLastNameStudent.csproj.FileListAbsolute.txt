@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\3. FirstNameBeforeLastNameStudent\bin\Debug\_3.FirstNameBeforeLastNameStudent.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\3. FirstNameBeforeLastNameStudent\bin\Debug\_3.FirstNameBeforeLastNameStudent.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\3. FirstNameBeforeLastNameStudent\bin\Debug\_3.FirstNameBeforeLastNameStudent.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\3. FirstNameBeforeLastNameStudent\obj\Debug\3. FirstNameBeforeLastNameStudent.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\3. FirstNameBeforeLastNameStudent\obj\Debug\_3.FirstNameBeforeLastNameStudent.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\3. FirstNameBeforeLastNameStudent\obj\Debug\_3.FirstNameBeforeLastNameStudent.pdb

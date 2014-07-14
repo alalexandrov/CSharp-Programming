@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\1. StudentClass\bin\Debug\_1.StudentClass.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\1. StudentClass\obj\Debug\1. StudentClass.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\1. StudentClass\bin\Debug\_1.StudentClass.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\1. StudentClass\bin\Debug\_1.StudentClass.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\1. StudentClass\obj\Debug\_1.StudentClass.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\1. StudentClass\obj\Debug\_1.StudentClass.pdb

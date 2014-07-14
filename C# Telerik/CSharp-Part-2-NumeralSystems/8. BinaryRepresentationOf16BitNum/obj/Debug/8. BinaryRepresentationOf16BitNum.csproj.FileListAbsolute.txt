@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\8. BinaryRepresentationOf16BitNum\bin\Debug\_8.BinaryRepresentationOf16BitNum.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\8. BinaryRepresentationOf16BitNum\bin\Debug\_8.BinaryRepresentationOf16BitNum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\8. BinaryRepresentationOf16BitNum\bin\Debug\_8.BinaryRepresentationOf16BitNum.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\8. BinaryRepresentationOf16BitNum\obj\Debug\_8.BinaryRepresentationOf16BitNum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\8. BinaryRepresentationOf16BitNum\obj\Debug\_8.BinaryRepresentationOf16BitNum.pdb

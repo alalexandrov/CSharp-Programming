@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\16. DaysBetweenTwoDatesCalc\bin\Debug\_16.DaysBetweenTwoDatesCalc.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\16. DaysBetweenTwoDatesCalc\bin\Debug\_16.DaysBetweenTwoDatesCalc.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\16. DaysBetweenTwoDatesCalc\bin\Debug\_16.DaysBetweenTwoDatesCalc.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\16. DaysBetweenTwoDatesCalc\obj\Debug\_16.DaysBetweenTwoDatesCalc.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\16. DaysBetweenTwoDatesCalc\obj\Debug\_16.DaysBetweenTwoDatesCalc.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\16. DaysBetweenTwoDatesCalc\obj\Debug\16. DaysBetweenTwoDatesCalc.csprojResolveAssemblyReference.cache

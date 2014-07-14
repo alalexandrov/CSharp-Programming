@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\1. ReadValidInteger\bin\Debug\_1.ReadValidInteger.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\1. ReadValidInteger\bin\Debug\_1.ReadValidInteger.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\1. ReadValidInteger\bin\Debug\_1.ReadValidInteger.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\1. ReadValidInteger\obj\Debug\1. ReadValidInteger.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\1. ReadValidInteger\obj\Debug\_1.ReadValidInteger.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\1. ReadValidInteger\obj\Debug\_1.ReadValidInteger.pdb

@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\9. DeleteOddLinesFromTextFile\bin\Debug\_9.DeleteOddLinesFromTextFile.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\9. DeleteOddLinesFromTextFile\bin\Debug\_9.DeleteOddLinesFromTextFile.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\9. DeleteOddLinesFromTextFile\bin\Debug\_9.DeleteOddLinesFromTextFile.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\9. DeleteOddLinesFromTextFile\obj\Debug\_9.DeleteOddLinesFromTextFile.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\9. DeleteOddLinesFromTextFile\obj\Debug\_9.DeleteOddLinesFromTextFile.pdb

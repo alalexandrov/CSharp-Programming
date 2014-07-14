@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\1. PrintingNumbersFromOneToN\bin\Debug\_1.PrintingNumbersFromOneToN.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\1. PrintingNumbersFromOneToN\bin\Debug\_1.PrintingNumbersFromOneToN.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\1. PrintingNumbersFromOneToN\bin\Debug\_1.PrintingNumbersFromOneToN.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\1. PrintingNumbersFromOneToN\obj\Debug\1. PrintingNumbersFromOneToN.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\1. PrintingNumbersFromOneToN\obj\Debug\_1.PrintingNumbersFromOneToN.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\1. PrintingNumbersFromOneToN\obj\Debug\_1.PrintingNumbersFromOneToN.pdb

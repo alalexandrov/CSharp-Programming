@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\12. FindWordLettersIndex\bin\Debug\_12.FindWordLettersIndex.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\12. FindWordLettersIndex\bin\Debug\_12.FindWordLettersIndex.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\12. FindWordLettersIndex\bin\Debug\_12.FindWordLettersIndex.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\12. FindWordLettersIndex\obj\Debug\_12.FindWordLettersIndex.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\12. FindWordLettersIndex\obj\Debug\_12.FindWordLettersIndex.pdb

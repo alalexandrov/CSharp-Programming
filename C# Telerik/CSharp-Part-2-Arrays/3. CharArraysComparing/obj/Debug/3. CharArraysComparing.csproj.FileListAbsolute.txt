@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\3. CharArraysComparing\bin\Debug\_3.CharArraysComparing.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\3. CharArraysComparing\bin\Debug\_3.CharArraysComparing.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\3. CharArraysComparing\bin\Debug\_3.CharArraysComparing.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\3. CharArraysComparing\obj\Debug\_3.CharArraysComparing.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\3. CharArraysComparing\obj\Debug\_3.CharArraysComparing.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\3. CharArraysComparing\obj\Debug\3. CharArraysComparing.csprojResolveAssemblyReference.cache

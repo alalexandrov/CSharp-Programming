@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\12. PrintingASCIITable\bin\Debug\_12.PrintingASCIITable.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\12. PrintingASCIITable\bin\Debug\_12.PrintingASCIITable.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\12. PrintingASCIITable\bin\Debug\_12.PrintingASCIITable.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\12. PrintingASCIITable\obj\Debug\_12.PrintingASCIITable.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\12. PrintingASCIITable\obj\Debug\_12.PrintingASCIITable.pdb

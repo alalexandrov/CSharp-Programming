@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\3. InsertLineNumbersInTextFile\bin\Debug\_3.InsertLineNumbersInTextFile.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\3. InsertLineNumbersInTextFile\bin\Debug\_3.InsertLineNumbersInTextFile.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\3. InsertLineNumbersInTextFile\bin\Debug\_3.InsertLineNumbersInTextFile.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\3. InsertLineNumbersInTextFile\obj\Debug\3. InsertLineNumbersInTextFile.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\3. InsertLineNumbersInTextFile\obj\Debug\_3.InsertLineNumbersInTextFile.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\3. InsertLineNumbersInTextFile\obj\Debug\_3.InsertLineNumbersInTextFile.pdb

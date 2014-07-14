@@ -1,0 +1,5 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\6. IsGivenPointIsWithinCircle\bin\Debug\_6.IsGivenPointIsWithinCircle.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\6. IsGivenPointIsWithinCircle\bin\Debug\_6.IsGivenPointIsWithinCircle.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\6. IsGivenPointIsWithinCircle\bin\Debug\_6.IsGivenPointIsWithinCircle.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\6. IsGivenPointIsWithinCircle\obj\Debug\_6.IsGivenPointIsWithinCircle.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\6. IsGivenPointIsWithinCircle\obj\Debug\_6.IsGivenPointIsWithinCircle.pdb

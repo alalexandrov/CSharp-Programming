@@ -1,0 +1,5 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\11. ValueOfBitAtGivenPositonExtract\bin\Debug\_11.ValueOfBitAtGivenPositonExtract.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\11. ValueOfBitAtGivenPositonExtract\bin\Debug\_11.ValueOfBitAtGivenPositonExtract.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\11. ValueOfBitAtGivenPositonExtract\bin\Debug\_11.ValueOfBitAtGivenPositonExtract.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\11. ValueOfBitAtGivenPositonExtract\obj\Debug\_11.ValueOfBitAtGivenPositonExtract.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\11. ValueOfBitAtGivenPositonExtract\obj\Debug\_11.ValueOfBitAtGivenPositonExtract.pdb

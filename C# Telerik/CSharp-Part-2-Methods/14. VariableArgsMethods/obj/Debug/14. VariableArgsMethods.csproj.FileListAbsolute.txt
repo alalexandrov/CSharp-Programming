@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\14. VariableArgsMethods\bin\Debug\_14.VariableArgsMethods.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\14. VariableArgsMethods\bin\Debug\_14.VariableArgsMethods.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\14. VariableArgsMethods\bin\Debug\_14.VariableArgsMethods.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\14. VariableArgsMethods\obj\Debug\_14.VariableArgsMethods.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\14. VariableArgsMethods\obj\Debug\_14.VariableArgsMethods.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\14. VariableArgsMethods\obj\Debug\14. VariableArgsMethods.csprojResolveAssemblyReference.cache

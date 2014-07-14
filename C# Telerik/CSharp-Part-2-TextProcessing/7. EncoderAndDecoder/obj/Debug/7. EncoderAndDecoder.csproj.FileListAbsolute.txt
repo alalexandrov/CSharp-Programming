@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\7. EncoderAndDecoder\bin\Debug\_7.EncoderAndDecoder.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\7. EncoderAndDecoder\bin\Debug\_7.EncoderAndDecoder.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\7. EncoderAndDecoder\bin\Debug\_7.EncoderAndDecoder.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\7. EncoderAndDecoder\obj\Debug\_7.EncoderAndDecoder.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\7. EncoderAndDecoder\obj\Debug\_7.EncoderAndDecoder.pdb

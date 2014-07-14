@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\6. StringPadRightWithStars\bin\Debug\_6.StringPadRightWithStars.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\6. StringPadRightWithStars\bin\Debug\_6.StringPadRightWithStars.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\6. StringPadRightWithStars\bin\Debug\_6.StringPadRightWithStars.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\6. StringPadRightWithStars\obj\Debug\_6.StringPadRightWithStars.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\6. StringPadRightWithStars\obj\Debug\_6.StringPadRightWithStars.pdb

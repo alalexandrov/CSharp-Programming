@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-1\2. HumanClasses\bin\Debug\_2.HumanClasses.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-1\2. HumanClasses\bin\Debug\_2.HumanClasses.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-1\2. HumanClasses\bin\Debug\_2.HumanClasses.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-1\2. HumanClasses\obj\Debug\2. HumanClasses.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-1\2. HumanClasses\obj\Debug\_2.HumanClasses.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-1\2. HumanClasses\obj\Debug\_2.HumanClasses.pdb

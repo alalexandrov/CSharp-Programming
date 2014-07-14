@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\9. IsGivenPointIsWithinCircleAndOutOfRect\bin\Debug\_9.IsGivenPointIsWithinCircleAndOutOfRect.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\9. IsGivenPointIsWithinCircleAndOutOfRect\bin\Debug\_9.IsGivenPointIsWithinCircleAndOutOfRect.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\9. IsGivenPointIsWithinCircleAndOutOfRect\bin\Debug\_9.IsGivenPointIsWithinCircleAndOutOfRect.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\9. IsGivenPointIsWithinCircleAndOutOfRect\obj\Debug\9. IsGivenPointIsWithinCircleAndOutOfRect.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\9. IsGivenPointIsWithinCircleAndOutOfRect\obj\Debug\_9.IsGivenPointIsWithinCircleAndOutOfRect.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\9. IsGivenPointIsWithinCircleAndOutOfRect\obj\Debug\_9.IsGivenPointIsWithinCircleAndOutOfRect.pdb

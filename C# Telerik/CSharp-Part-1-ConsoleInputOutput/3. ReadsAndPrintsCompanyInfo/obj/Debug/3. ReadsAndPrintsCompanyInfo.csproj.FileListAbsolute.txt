@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\3. ReadsAndPrintsCompanyInfo\bin\Debug\_3.ReadsAndPrintsCompanyInfo.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\3. ReadsAndPrintsCompanyInfo\bin\Debug\_3.ReadsAndPrintsCompanyInfo.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\3. ReadsAndPrintsCompanyInfo\bin\Debug\_3.ReadsAndPrintsCompanyInfo.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\3. ReadsAndPrintsCompanyInfo\obj\Debug\_3.ReadsAndPrintsCompanyInfo.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\3. ReadsAndPrintsCompanyInfo\obj\Debug\_3.ReadsAndPrintsCompanyInfo.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\3. ReadsAndPrintsCompanyInfo\obj\Debug\3. ReadsAndPrintsCompanyInfo.csprojResolveAssemblyReference.cache

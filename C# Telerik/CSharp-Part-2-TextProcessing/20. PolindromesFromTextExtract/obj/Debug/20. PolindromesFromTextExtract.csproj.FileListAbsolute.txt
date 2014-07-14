@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\20. PolindromesFromTextExtract\bin\Debug\_20.PolindromesFromTextExtract.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\20. PolindromesFromTextExtract\bin\Debug\_20.PolindromesFromTextExtract.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\20. PolindromesFromTextExtract\bin\Debug\_20.PolindromesFromTextExtract.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\20. PolindromesFromTextExtract\obj\Debug\_20.PolindromesFromTextExtract.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\20. PolindromesFromTextExtract\obj\Debug\_20.PolindromesFromTextExtract.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\20. PolindromesFromTextExtract\obj\Debug\20. PolindromesFromTextExtract.csprojResolveAssemblyReference.cache

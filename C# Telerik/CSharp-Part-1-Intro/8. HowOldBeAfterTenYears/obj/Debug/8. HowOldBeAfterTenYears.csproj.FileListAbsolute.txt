@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\8. HowOldBeAfterTenYears\bin\Debug\_8.HowOldBeAfterTenYears.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\8. HowOldBeAfterTenYears\bin\Debug\_8.HowOldBeAfterTenYears.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\8. HowOldBeAfterTenYears\bin\Debug\_8.HowOldBeAfterTenYears.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\8. HowOldBeAfterTenYears\obj\Debug\8. HowOldBeAfterTenYears.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\8. HowOldBeAfterTenYears\obj\Debug\_8.HowOldBeAfterTenYears.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\8. HowOldBeAfterTenYears\obj\Debug\_8.HowOldBeAfterTenYears.pdb

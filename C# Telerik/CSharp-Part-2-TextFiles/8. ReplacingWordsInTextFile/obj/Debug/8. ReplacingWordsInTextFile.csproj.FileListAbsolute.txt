@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\8. ReplacingWordsInTextFile\bin\Debug\_8.ReplacingWordsInTextFile.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\8. ReplacingWordsInTextFile\bin\Debug\_8.ReplacingWordsInTextFile.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\8. ReplacingWordsInTextFile\bin\Debug\_8.ReplacingWordsInTextFile.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\8. ReplacingWordsInTextFile\obj\Debug\_8.ReplacingWordsInTextFile.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\8. ReplacingWordsInTextFile\obj\Debug\_8.ReplacingWordsInTextFile.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\8. ReplacingWordsInTextFile\obj\Debug\8. ReplacingWordsInTextFile.csprojResolveAssemblyReference.cache

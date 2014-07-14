@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\8. AddingPositiveIntegersMethod\bin\Debug\_8.AddingPositiveIntegersMethod.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\8. AddingPositiveIntegersMethod\bin\Debug\_8.AddingPositiveIntegersMethod.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\8. AddingPositiveIntegersMethod\bin\Debug\_8.AddingPositiveIntegersMethod.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\8. AddingPositiveIntegersMethod\obj\Debug\_8.AddingPositiveIntegersMethod.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\8. AddingPositiveIntegersMethod\obj\Debug\_8.AddingPositiveIntegersMethod.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\8. AddingPositiveIntegersMethod\obj\Debug\8. AddingPositiveIntegersMethod.csprojResolveAssemblyReference.cache

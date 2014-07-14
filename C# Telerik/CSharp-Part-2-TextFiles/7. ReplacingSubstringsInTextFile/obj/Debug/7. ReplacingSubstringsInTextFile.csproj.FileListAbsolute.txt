@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\7. ReplacingSubstringsInTextFile\bin\Debug\_7.ReplacingSubstringsInTextFile.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\7. ReplacingSubstringsInTextFile\bin\Debug\_7.ReplacingSubstringsInTextFile.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\7. ReplacingSubstringsInTextFile\bin\Debug\_7.ReplacingSubstringsInTextFile.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\7. ReplacingSubstringsInTextFile\obj\Debug\_7.ReplacingSubstringsInTextFile.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\7. ReplacingSubstringsInTextFile\obj\Debug\_7.ReplacingSubstringsInTextFile.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\7. ReplacingSubstringsInTextFile\obj\Debug\7. ReplacingSubstringsInTextFile.csprojResolveAssemblyReference.cache

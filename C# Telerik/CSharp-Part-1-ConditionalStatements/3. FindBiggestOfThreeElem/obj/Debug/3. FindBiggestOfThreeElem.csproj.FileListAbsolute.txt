@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\3. FindBiggestOfThreeElem\bin\Debug\_3.FindBiggestOfThreeElem.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\3. FindBiggestOfThreeElem\bin\Debug\_3.FindBiggestOfThreeElem.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\3. FindBiggestOfThreeElem\bin\Debug\_3.FindBiggestOfThreeElem.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\3. FindBiggestOfThreeElem\obj\Debug\_3.FindBiggestOfThreeElem.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\3. FindBiggestOfThreeElem\obj\Debug\_3.FindBiggestOfThreeElem.pdb

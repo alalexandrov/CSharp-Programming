@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\8. PrintingNumbersFrom1ToN\bin\Debug\_8.PrintingNumbersFrom1ToN.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\8. PrintingNumbersFrom1ToN\bin\Debug\_8.PrintingNumbersFrom1ToN.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\8. PrintingNumbersFrom1ToN\bin\Debug\_8.PrintingNumbersFrom1ToN.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\8. PrintingNumbersFrom1ToN\obj\Debug\_8.PrintingNumbersFrom1ToN.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\8. PrintingNumbersFrom1ToN\obj\Debug\_8.PrintingNumbersFrom1ToN.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\8. PrintingNumbersFrom1ToN\obj\Debug\8. PrintingNumbersFrom1ToN.csprojResolveAssemblyReference.cache

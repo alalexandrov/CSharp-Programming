@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\10. NFactorialForEachElemCalc\bin\Debug\_10.NFactorialForEachElemCalc.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\10. NFactorialForEachElemCalc\bin\Debug\_10.NFactorialForEachElemCalc.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\10. NFactorialForEachElemCalc\bin\Debug\_10.NFactorialForEachElemCalc.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\10. NFactorialForEachElemCalc\obj\Debug\_10.NFactorialForEachElemCalc.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\10. NFactorialForEachElemCalc\obj\Debug\_10.NFactorialForEachElemCalc.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\10. NFactorialForEachElemCalc\obj\Debug\10. NFactorialForEachElemCalc.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\8. SentenceExtractByGivenWord\bin\Debug\_8.SentenceExtractByGivenWord.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\8. SentenceExtractByGivenWord\bin\Debug\_8.SentenceExtractByGivenWord.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\8. SentenceExtractByGivenWord\bin\Debug\_8.SentenceExtractByGivenWord.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\8. SentenceExtractByGivenWord\obj\Debug\_8.SentenceExtractByGivenWord.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\8. SentenceExtractByGivenWord\obj\Debug\_8.SentenceExtractByGivenWord.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\8. SentenceExtractByGivenWord\obj\Debug\8. SentenceExtractByGivenWord.csprojResolveAssemblyReference.cache

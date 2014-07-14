@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\1. InitializeArrayWithIndexMultipliedBy5\bin\Debug\_1.InitializeArrayWithIndexMultipliedBy5.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\1. InitializeArrayWithIndexMultipliedBy5\bin\Debug\_1.InitializeArrayWithIndexMultipliedBy5.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\1. InitializeArrayWithIndexMultipliedBy5\bin\Debug\_1.InitializeArrayWithIndexMultipliedBy5.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\1. InitializeArrayWithIndexMultipliedBy5\obj\Debug\1. InitializeArrayWithIndexMultipliedBy5.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\1. InitializeArrayWithIndexMultipliedBy5\obj\Debug\_1.InitializeArrayWithIndexMultipliedBy5.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\1. InitializeArrayWithIndexMultipliedBy5\obj\Debug\_1.InitializeArrayWithIndexMultipliedBy5.pdb

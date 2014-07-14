@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\5. ReadingMatrixFromTextFile\bin\Debug\_5.ReadingMatrixFromTextFile.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\5. ReadingMatrixFromTextFile\bin\Debug\_5.ReadingMatrixFromTextFile.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\5. ReadingMatrixFromTextFile\bin\Debug\_5.ReadingMatrixFromTextFile.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\5. ReadingMatrixFromTextFile\obj\Debug\5. ReadingMatrixFromTextFile.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\5. ReadingMatrixFromTextFile\obj\Debug\_5.ReadingMatrixFromTextFile.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\5. ReadingMatrixFromTextFile\obj\Debug\_5.ReadingMatrixFromTextFile.pdb

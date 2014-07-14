@@ -1,0 +1,8 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\5. SortingStudentsByFirstAndLastName\bin\Debug\_5.SortingStudentsByFirstAndLastName.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\5. SortingStudentsByFirstAndLastName\bin\Debug\_5.SortingStudentsByFirstAndLastName.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\5. SortingStudentsByFirstAndLastName\bin\Debug\_5.SortingStudentsByFirstAndLastName.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\5. SortingStudentsByFirstAndLastName\bin\Debug\_3.FirstNameBeforeLastNameStudent.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\5. SortingStudentsByFirstAndLastName\bin\Debug\_3.FirstNameBeforeLastNameStudent.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\5. SortingStudentsByFirstAndLastName\obj\Debug\5. SortingStudentsByFirstAndLastName.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\5. SortingStudentsByFirstAndLastName\obj\Debug\_5.SortingStudentsByFirstAndLastName.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\5. SortingStudentsByFirstAndLastName\obj\Debug\_5.SortingStudentsByFirstAndLastName.pdb

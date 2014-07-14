@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\4. FindMaximalSequenceOfEqualElem\bin\Debug\_4.FindMaximalSequenceOfEqualElem.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\4. FindMaximalSequenceOfEqualElem\bin\Debug\_4.FindMaximalSequenceOfEqualElem.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\4. FindMaximalSequenceOfEqualElem\bin\Debug\_4.FindMaximalSequenceOfEqualElem.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\4. FindMaximalSequenceOfEqualElem\obj\Debug\_4.FindMaximalSequenceOfEqualElem.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\4. FindMaximalSequenceOfEqualElem\obj\Debug\_4.FindMaximalSequenceOfEqualElem.pdb

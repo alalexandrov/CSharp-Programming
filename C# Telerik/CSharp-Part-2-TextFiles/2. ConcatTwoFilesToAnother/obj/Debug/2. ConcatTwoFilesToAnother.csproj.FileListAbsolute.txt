@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\2. ConcatTwoFilesToAnother\bin\Debug\_2.ConcatTwoFilesToAnother.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\2. ConcatTwoFilesToAnother\bin\Debug\_2.ConcatTwoFilesToAnother.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\2. ConcatTwoFilesToAnother\bin\Debug\_2.ConcatTwoFilesToAnother.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\2. ConcatTwoFilesToAnother\obj\Debug\_2.ConcatTwoFilesToAnother.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\2. ConcatTwoFilesToAnother\obj\Debug\_2.ConcatTwoFilesToAnother.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\2. ConcatTwoFilesToAnother\obj\Debug\2. ConcatTwoFilesToAnother.csprojResolveAssemblyReference.cache

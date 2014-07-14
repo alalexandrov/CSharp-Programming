@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\14. BankAccountInfo\bin\Debug\_14.BankAccountInfo.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\14. BankAccountInfo\bin\Debug\_14.BankAccountInfo.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\14. BankAccountInfo\bin\Debug\_14.BankAccountInfo.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\14. BankAccountInfo\obj\Debug\_14.BankAccountInfo.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\14. BankAccountInfo\obj\Debug\_14.BankAccountInfo.pdb

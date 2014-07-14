@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. WorkingWith3DCordinates", "1. WorkingWith3DCordinates\1. WorkingWith3DCordinates.csproj", "{BC7AE824-59A5-4001-83AB-9CEFA4E7CBB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. GenericListImplementation", "2. GenericListImplementation\2. GenericListImplementation.csproj", "{802F45A7-FA8F-4DD6-B55C-6C6E4572D251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. GenericMatrixImplementation", "3. GenericMatrixImplementation\3. GenericMatrixImplementation.csproj", "{658ACF9A-6D33-474F-991E-7F641E328271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC7AE824-59A5-4001-83AB-9CEFA4E7CBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7AE824-59A5-4001-83AB-9CEFA4E7CBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7AE824-59A5-4001-83AB-9CEFA4E7CBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7AE824-59A5-4001-83AB-9CEFA4E7CBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802F45A7-FA8F-4DD6-B55C-6C6E4572D251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802F45A7-FA8F-4DD6-B55C-6C6E4572D251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802F45A7-FA8F-4DD6-B55C-6C6E4572D251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802F45A7-FA8F-4DD6-B55C-6C6E4572D251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658ACF9A-6D33-474F-991E-7F641E328271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658ACF9A-6D33-474F-991E-7F641E328271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658ACF9A-6D33-474F-991E-7F641E328271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658ACF9A-6D33-474F-991E-7F641E328271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

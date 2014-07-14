@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\25. HtmlParser\bin\Debug\_25.HtmlParser.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\25. HtmlParser\bin\Debug\_25.HtmlParser.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\25. HtmlParser\bin\Debug\_25.HtmlParser.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\25. HtmlParser\obj\Debug\_25.HtmlParser.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\25. HtmlParser\obj\Debug\_25.HtmlParser.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\25. HtmlParser\obj\Debug\25. HtmlParser.csprojResolveAssemblyReference.cache

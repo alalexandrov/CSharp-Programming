@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\5. NameOfDigitInEnglish\bin\Debug\_5.NameOfDigitInEnglish.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\5. NameOfDigitInEnglish\bin\Debug\_5.NameOfDigitInEnglish.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\5. NameOfDigitInEnglish\bin\Debug\_5.NameOfDigitInEnglish.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\5. NameOfDigitInEnglish\obj\Debug\_5.NameOfDigitInEnglish.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\5. NameOfDigitInEnglish\obj\Debug\_5.NameOfDigitInEnglish.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\5. NameOfDigitInEnglish\obj\Debug\5. NameOfDigitInEnglish.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\4. ThirdDigitCheck\bin\Debug\_4.ThirdDigitCheck.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\4. ThirdDigitCheck\bin\Debug\_4.ThirdDigitCheck.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\4. ThirdDigitCheck\bin\Debug\_4.ThirdDigitCheck.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\4. ThirdDigitCheck\obj\Debug\_4.ThirdDigitCheck.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\4. ThirdDigitCheck\obj\Debug\_4.ThirdDigitCheck.pdb

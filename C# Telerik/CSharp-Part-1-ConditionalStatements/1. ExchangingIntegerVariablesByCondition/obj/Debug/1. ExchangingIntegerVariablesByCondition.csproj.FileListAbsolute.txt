@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\1. ExchangingIntegerVariablesByCondition\bin\Debug\_1.ExchangingIntegerVariablesByCondition.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\1. ExchangingIntegerVariablesByCondition\bin\Debug\_1.ExchangingIntegerVariablesByCondition.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\1. ExchangingIntegerVariablesByCondition\bin\Debug\_1.ExchangingIntegerVariablesByCondition.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\1. ExchangingIntegerVariablesByCondition\obj\Debug\1. ExchangingIntegerVariablesByCondition.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\1. ExchangingIntegerVariablesByCondition\obj\Debug\_1.ExchangingIntegerVariablesByCondition.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\1. ExchangingIntegerVariablesByCondition\obj\Debug\_1.ExchangingIntegerVariablesByCondition.pdb

@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\7. FindingGreatestOfFiveVariables\bin\Debug\_7.FindingGreatestOfFiveVariables.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\7. FindingGreatestOfFiveVariables\bin\Debug\_7.FindingGreatestOfFiveVariables.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\7. FindingGreatestOfFiveVariables\bin\Debug\_7.FindingGreatestOfFiveVariables.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\7. FindingGreatestOfFiveVariables\obj\Debug\_7.FindingGreatestOfFiveVariables.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\7. FindingGreatestOfFiveVariables\obj\Debug\_7.FindingGreatestOfFiveVariables.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\7. FindingGreatestOfFiveVariables\obj\Debug\7. FindingGreatestOfFiveVariables.csprojResolveAssemblyReference.cache

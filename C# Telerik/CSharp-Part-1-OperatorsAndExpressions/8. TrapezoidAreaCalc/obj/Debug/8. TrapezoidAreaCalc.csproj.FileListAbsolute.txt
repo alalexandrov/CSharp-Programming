@@ -1,0 +1,5 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\8. TrapezoidAreaCalc\bin\Debug\_8.TrapezoidAreaCalc.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\8. TrapezoidAreaCalc\bin\Debug\_8.TrapezoidAreaCalc.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\8. TrapezoidAreaCalc\bin\Debug\_8.TrapezoidAreaCalc.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\8. TrapezoidAreaCalc\obj\Debug\_8.TrapezoidAreaCalc.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\8. TrapezoidAreaCalc\obj\Debug\_8.TrapezoidAreaCalc.pdb

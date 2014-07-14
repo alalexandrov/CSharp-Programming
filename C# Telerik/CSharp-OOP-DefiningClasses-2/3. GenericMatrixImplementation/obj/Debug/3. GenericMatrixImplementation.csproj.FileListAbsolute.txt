@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-2\3. GenericMatrixImplementation\bin\Debug\_3.GenericMatrixImplementation.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-2\3. GenericMatrixImplementation\obj\Debug\3. GenericMatrixImplementation.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-2\3. GenericMatrixImplementation\bin\Debug\_3.GenericMatrixImplementation.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-2\3. GenericMatrixImplementation\bin\Debug\_3.GenericMatrixImplementation.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-2\3. GenericMatrixImplementation\obj\Debug\_3.GenericMatrixImplementation.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-2\3. GenericMatrixImplementation\obj\Debug\_3.GenericMatrixImplementation.pdb

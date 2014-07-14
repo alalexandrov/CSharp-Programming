@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\4. DownloadFileFromInternet\bin\Debug\_4.DownloadFileFromInternet.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\4. DownloadFileFromInternet\bin\Debug\_4.DownloadFileFromInternet.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\4. DownloadFileFromInternet\bin\Debug\_4.DownloadFileFromInternet.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\4. DownloadFileFromInternet\obj\Debug\_4.DownloadFileFromInternet.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\4. DownloadFileFromInternet\obj\Debug\_4.DownloadFileFromInternet.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\4. DownloadFileFromInternet\obj\Debug\4. DownloadFileFromInternet.csprojResolveAssemblyReference.cache

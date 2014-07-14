@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\7. FirstTenMembersOfASequence\bin\Debug\_7.FirstTenMembersOfASequence.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\7. FirstTenMembersOfASequence\bin\Debug\_7.FirstTenMembersOfASequence.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\7. FirstTenMembersOfASequence\bin\Debug\_7.FirstTenMembersOfASequence.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\7. FirstTenMembersOfASequence\obj\Debug\_7.FirstTenMembersOfASequence.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\7. FirstTenMembersOfASequence\obj\Debug\_7.FirstTenMembersOfASequence.pdb

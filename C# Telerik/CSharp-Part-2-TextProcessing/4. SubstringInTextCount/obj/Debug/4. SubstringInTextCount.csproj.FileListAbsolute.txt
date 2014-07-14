@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\4. SubstringInTextCount\bin\Debug\_4.SubstringInTextCount.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\4. SubstringInTextCount\bin\Debug\_4.SubstringInTextCount.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\4. SubstringInTextCount\bin\Debug\_4.SubstringInTextCount.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\4. SubstringInTextCount\obj\Debug\4. SubstringInTextCount.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\4. SubstringInTextCount\obj\Debug\_4.SubstringInTextCount.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\4. SubstringInTextCount\obj\Debug\_4.SubstringInTextCount.pdb

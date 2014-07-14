@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\10. EmployeeInfo\bin\Debug\_10.EmployeeInfo.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\10. EmployeeInfo\bin\Debug\_10.EmployeeInfo.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\10. EmployeeInfo\bin\Debug\_10.EmployeeInfo.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\10. EmployeeInfo\obj\Debug\_10.EmployeeInfo.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\10. EmployeeInfo\obj\Debug\_10.EmployeeInfo.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\10. EmployeeInfo\obj\Debug\10. EmployeeInfo.csprojResolveAssemblyReference.cache

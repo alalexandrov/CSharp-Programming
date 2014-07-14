@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\2. CirclePerimeterAndAreaCalc\bin\Debug\_2.CirclePerimeterAndAreaCalc.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\2. CirclePerimeterAndAreaCalc\bin\Debug\_2.CirclePerimeterAndAreaCalc.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\2. CirclePerimeterAndAreaCalc\bin\Debug\_2.CirclePerimeterAndAreaCalc.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\2. CirclePerimeterAndAreaCalc\obj\Debug\_2.CirclePerimeterAndAreaCalc.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\2. CirclePerimeterAndAreaCalc\obj\Debug\_2.CirclePerimeterAndAreaCalc.pdb

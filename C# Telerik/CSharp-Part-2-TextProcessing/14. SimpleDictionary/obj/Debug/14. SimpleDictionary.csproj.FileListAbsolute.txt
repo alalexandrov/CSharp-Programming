@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\14. SimpleDictionary\bin\Debug\_14.SimpleDictionary.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\14. SimpleDictionary\bin\Debug\_14.SimpleDictionary.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\14. SimpleDictionary\bin\Debug\_14.SimpleDictionary.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\14. SimpleDictionary\obj\Debug\_14.SimpleDictionary.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\14. SimpleDictionary\obj\Debug\_14.SimpleDictionary.pdb

@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\2. PrintReversedString\bin\Debug\_2.PrintReversedString.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\2. PrintReversedString\bin\Debug\_2.PrintReversedString.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\2. PrintReversedString\bin\Debug\_2.PrintReversedString.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\2. PrintReversedString\obj\Debug\2. PrintReversedString.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\2. PrintReversedString\obj\Debug\_2.PrintReversedString.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\2. PrintReversedString\obj\Debug\_2.PrintReversedString.pdb

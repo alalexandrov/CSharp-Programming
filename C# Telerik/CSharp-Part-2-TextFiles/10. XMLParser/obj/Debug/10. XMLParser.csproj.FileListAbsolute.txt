@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\10. XMLParser\bin\Debug\_10.XMLParser.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\10. XMLParser\bin\Debug\_10.XMLParser.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\10. XMLParser\bin\Debug\_10.XMLParser.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\10. XMLParser\obj\Debug\_10.XMLParser.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\10. XMLParser\obj\Debug\_10.XMLParser.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\10. XMLParser\obj\Debug\10. XMLParser.csprojResolveAssemblyReference.cache

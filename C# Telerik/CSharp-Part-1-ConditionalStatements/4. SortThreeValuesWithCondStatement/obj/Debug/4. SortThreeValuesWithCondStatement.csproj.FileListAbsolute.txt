@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\4. SortThreeValuesWithCondStatement\bin\Debug\_4.SortThreeValuesWithCondStatement.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\4. SortThreeValuesWithCondStatement\bin\Debug\_4.SortThreeValuesWithCondStatement.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\4. SortThreeValuesWithCondStatement\bin\Debug\_4.SortThreeValuesWithCondStatement.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\4. SortThreeValuesWithCondStatement\obj\Debug\_4.SortThreeValuesWithCondStatement.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\4. SortThreeValuesWithCondStatement\obj\Debug\_4.SortThreeValuesWithCondStatement.pdb

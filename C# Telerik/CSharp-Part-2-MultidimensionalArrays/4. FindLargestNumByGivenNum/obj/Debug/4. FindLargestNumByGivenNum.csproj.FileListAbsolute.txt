@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\4. FindLargestNumByGivenNum\bin\Debug\_4.FindLargestNumByGivenNum.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\4. FindLargestNumByGivenNum\bin\Debug\_4.FindLargestNumByGivenNum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\4. FindLargestNumByGivenNum\bin\Debug\_4.FindLargestNumByGivenNum.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\4. FindLargestNumByGivenNum\obj\Debug\4. FindLargestNumByGivenNum.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\4. FindLargestNumByGivenNum\obj\Debug\_4.FindLargestNumByGivenNum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-MultidimensionalArrays\4. FindLargestNumByGivenNum\obj\Debug\_4.FindLargestNumByGivenNum.pdb

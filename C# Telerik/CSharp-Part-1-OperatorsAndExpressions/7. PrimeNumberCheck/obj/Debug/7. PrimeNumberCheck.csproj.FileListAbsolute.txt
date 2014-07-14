@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\7. PrimeNumberCheck\bin\Debug\_7.PrimeNumberCheck.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\7. PrimeNumberCheck\bin\Debug\_7.PrimeNumberCheck.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\7. PrimeNumberCheck\bin\Debug\_7.PrimeNumberCheck.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\7. PrimeNumberCheck\obj\Debug\7. PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\7. PrimeNumberCheck\obj\Debug\_7.PrimeNumberCheck.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\7. PrimeNumberCheck\obj\Debug\_7.PrimeNumberCheck.pdb

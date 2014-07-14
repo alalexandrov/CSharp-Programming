@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\5. FindMaximalIncreasingSequence\bin\Debug\_5.FindMaximalIncreasingSequence.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\5. FindMaximalIncreasingSequence\bin\Debug\_5.FindMaximalIncreasingSequence.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\5. FindMaximalIncreasingSequence\bin\Debug\_5.FindMaximalIncreasingSequence.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\5. FindMaximalIncreasingSequence\obj\Debug\_5.FindMaximalIncreasingSequence.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\5. FindMaximalIncreasingSequence\obj\Debug\_5.FindMaximalIncreasingSequence.pdb

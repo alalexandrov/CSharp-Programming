@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\12. SubsAndMultOfPolynomials\bin\Debug\_12.SubsAndMultOfPolynomials.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\12. SubsAndMultOfPolynomials\bin\Debug\_12.SubsAndMultOfPolynomials.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\12. SubsAndMultOfPolynomials\bin\Debug\_12.SubsAndMultOfPolynomials.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\12. SubsAndMultOfPolynomials\obj\Debug\_12.SubsAndMultOfPolynomials.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\12. SubsAndMultOfPolynomials\obj\Debug\_12.SubsAndMultOfPolynomials.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\12. SubsAndMultOfPolynomials\obj\Debug\12. SubsAndMultOfPolynomials.csprojResolveAssemblyReference.cache

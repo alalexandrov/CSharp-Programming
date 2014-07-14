@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\9. TheSumOfSubsetOfFiveNumCheck\bin\Debug\_9.TheSumOfSubsetOfFiveNumCheck.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\9. TheSumOfSubsetOfFiveNumCheck\bin\Debug\_9.TheSumOfSubsetOfFiveNumCheck.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\9. TheSumOfSubsetOfFiveNumCheck\bin\Debug\_9.TheSumOfSubsetOfFiveNumCheck.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\9. TheSumOfSubsetOfFiveNumCheck\obj\Debug\9. TheSumOfSubsetOfFiveNumCheck.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\9. TheSumOfSubsetOfFiveNumCheck\obj\Debug\_9.TheSumOfSubsetOfFiveNumCheck.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConditionalStatements\9. TheSumOfSubsetOfFiveNumCheck\obj\Debug\_9.TheSumOfSubsetOfFiveNumCheck.pdb

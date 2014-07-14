@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\16. GeneratingAllCombinationsByGivenNK\bin\Debug\_16.GeneratingAllCombinationsByGivenNK.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\16. GeneratingAllCombinationsByGivenNK\bin\Debug\_16.GeneratingAllCombinationsByGivenNK.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\16. GeneratingAllCombinationsByGivenNK\bin\Debug\_16.GeneratingAllCombinationsByGivenNK.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\16. GeneratingAllCombinationsByGivenNK\obj\Debug\_16.GeneratingAllCombinationsByGivenNK.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\16. GeneratingAllCombinationsByGivenNK\obj\Debug\_16.GeneratingAllCombinationsByGivenNK.pdb

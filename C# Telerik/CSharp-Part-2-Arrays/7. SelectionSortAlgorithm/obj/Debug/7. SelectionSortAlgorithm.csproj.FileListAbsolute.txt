@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\7. SelectionSortAlgorithm\bin\Debug\_7.SelectionSortAlgorithm.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\7. SelectionSortAlgorithm\bin\Debug\_7.SelectionSortAlgorithm.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\7. SelectionSortAlgorithm\bin\Debug\_7.SelectionSortAlgorithm.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\7. SelectionSortAlgorithm\obj\Debug\7. SelectionSortAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\7. SelectionSortAlgorithm\obj\Debug\_7.SelectionSortAlgorithm.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\7. SelectionSortAlgorithm\obj\Debug\_7.SelectionSortAlgorithm.pdb

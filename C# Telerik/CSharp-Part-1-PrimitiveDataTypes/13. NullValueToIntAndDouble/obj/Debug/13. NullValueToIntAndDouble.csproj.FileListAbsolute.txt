@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\13. NullValueToIntAndDouble\bin\Debug\_13.NullValueToIntAndDouble.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\13. NullValueToIntAndDouble\bin\Debug\_13.NullValueToIntAndDouble.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\13. NullValueToIntAndDouble\bin\Debug\_13.NullValueToIntAndDouble.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\13. NullValueToIntAndDouble\obj\Debug\_13.NullValueToIntAndDouble.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\13. NullValueToIntAndDouble\obj\Debug\_13.NullValueToIntAndDouble.pdb

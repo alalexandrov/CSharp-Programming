@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\5. StringToUpperTagParse\bin\Debug\_5.StringToUpperTagParse.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\5. StringToUpperTagParse\bin\Debug\_5.StringToUpperTagParse.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\5. StringToUpperTagParse\bin\Debug\_5.StringToUpperTagParse.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\5. StringToUpperTagParse\obj\Debug\5. StringToUpperTagParse.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\5. StringToUpperTagParse\obj\Debug\_5.StringToUpperTagParse.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\5. StringToUpperTagParse\obj\Debug\_5.StringToUpperTagParse.pdb

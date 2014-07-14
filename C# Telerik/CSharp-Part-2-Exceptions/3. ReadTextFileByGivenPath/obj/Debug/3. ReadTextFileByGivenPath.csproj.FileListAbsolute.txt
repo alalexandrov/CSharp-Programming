@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\3. ReadTextFileByGivenPath\bin\Debug\_3.ReadTextFileByGivenPath.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\3. ReadTextFileByGivenPath\bin\Debug\_3.ReadTextFileByGivenPath.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\3. ReadTextFileByGivenPath\bin\Debug\_3.ReadTextFileByGivenPath.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\3. ReadTextFileByGivenPath\obj\Debug\3. ReadTextFileByGivenPath.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\3. ReadTextFileByGivenPath\obj\Debug\_3.ReadTextFileByGivenPath.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Exceptions\3. ReadTextFileByGivenPath\obj\Debug\_3.ReadTextFileByGivenPath.pdb

@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\4. HowManyNumDividedByFive\bin\Debug\_4.HowManyNumDividedByFive.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\4. HowManyNumDividedByFive\bin\Debug\_4.HowManyNumDividedByFive.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\4. HowManyNumDividedByFive\bin\Debug\_4.HowManyNumDividedByFive.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\4. HowManyNumDividedByFive\obj\Debug\4. HowManyNumDividedByFive.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\4. HowManyNumDividedByFive\obj\Debug\_4.HowManyNumDividedByFive.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\4. HowManyNumDividedByFive\obj\Debug\_4.HowManyNumDividedByFive.pdb

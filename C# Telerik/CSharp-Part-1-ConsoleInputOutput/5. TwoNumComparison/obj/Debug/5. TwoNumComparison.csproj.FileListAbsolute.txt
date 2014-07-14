@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\5. TwoNumComparison\bin\Debug\_5.TwoNumComparison.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\5. TwoNumComparison\bin\Debug\_5.TwoNumComparison.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\5. TwoNumComparison\bin\Debug\_5.TwoNumComparison.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\5. TwoNumComparison\obj\Debug\5. TwoNumComparison.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\5. TwoNumComparison\obj\Debug\_5.TwoNumComparison.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\5. TwoNumComparison\obj\Debug\_5.TwoNumComparison.pdb

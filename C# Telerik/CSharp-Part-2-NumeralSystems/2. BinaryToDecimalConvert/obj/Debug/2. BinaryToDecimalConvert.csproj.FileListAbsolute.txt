@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\2. BinaryToDecimalConvert\bin\Debug\_2.BinaryToDecimalConvert.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\2. BinaryToDecimalConvert\bin\Debug\_2.BinaryToDecimalConvert.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\2. BinaryToDecimalConvert\bin\Debug\_2.BinaryToDecimalConvert.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\2. BinaryToDecimalConvert\obj\Debug\_2.BinaryToDecimalConvert.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-NumeralSystems\2. BinaryToDecimalConvert\obj\Debug\_2.BinaryToDecimalConvert.pdb

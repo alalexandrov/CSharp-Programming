@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\2. FloatAndDoubleAssign\bin\Debug\_2.FloatAndDoubleAssign.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\2. FloatAndDoubleAssign\bin\Debug\_2.FloatAndDoubleAssign.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\2. FloatAndDoubleAssign\bin\Debug\_2.FloatAndDoubleAssign.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\2. FloatAndDoubleAssign\obj\Debug\2. FloatAndDoubleAssign.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\2. FloatAndDoubleAssign\obj\Debug\_2.FloatAndDoubleAssign.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\2. FloatAndDoubleAssign\obj\Debug\_2.FloatAndDoubleAssign.pdb

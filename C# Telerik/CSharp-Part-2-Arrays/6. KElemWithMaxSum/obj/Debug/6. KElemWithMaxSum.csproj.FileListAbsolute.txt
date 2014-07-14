@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\6. KElemWithMaxSum\bin\Debug\_6.KElemWithMaxSum.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\6. KElemWithMaxSum\obj\Debug\6. KElemWithMaxSum.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\6. KElemWithMaxSum\bin\Debug\_6.KElemWithMaxSum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\6. KElemWithMaxSum\bin\Debug\_6.KElemWithMaxSum.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\6. KElemWithMaxSum\obj\Debug\_6.KElemWithMaxSum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\6. KElemWithMaxSum\obj\Debug\_6.KElemWithMaxSum.pdb

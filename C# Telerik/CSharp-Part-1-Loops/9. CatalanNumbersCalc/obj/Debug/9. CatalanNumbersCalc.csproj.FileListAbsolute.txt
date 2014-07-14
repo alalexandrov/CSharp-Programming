@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\9. CatalanNumbersCalc\bin\Debug\_9.CatalanNumbersCalc.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\9. CatalanNumbersCalc\bin\Debug\_9.CatalanNumbersCalc.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\9. CatalanNumbersCalc\bin\Debug\_9.CatalanNumbersCalc.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\9. CatalanNumbersCalc\obj\Debug\_9.CatalanNumbersCalc.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\9. CatalanNumbersCalc\obj\Debug\_9.CatalanNumbersCalc.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\9. CatalanNumbersCalc\obj\Debug\9. CatalanNumbersCalc.csprojResolveAssemblyReference.cache

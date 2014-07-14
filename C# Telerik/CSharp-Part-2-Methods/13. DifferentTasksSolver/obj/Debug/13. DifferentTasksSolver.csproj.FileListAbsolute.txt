@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\13. DifferentTasksSolver\bin\Debug\_13.DifferentTasksSolver.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\13. DifferentTasksSolver\bin\Debug\_13.DifferentTasksSolver.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\13. DifferentTasksSolver\bin\Debug\_13.DifferentTasksSolver.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\13. DifferentTasksSolver\obj\Debug\_13.DifferentTasksSolver.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\13. DifferentTasksSolver\obj\Debug\_13.DifferentTasksSolver.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\13. DifferentTasksSolver\obj\Debug\13. DifferentTasksSolver.csprojResolveAssemblyReference.cache

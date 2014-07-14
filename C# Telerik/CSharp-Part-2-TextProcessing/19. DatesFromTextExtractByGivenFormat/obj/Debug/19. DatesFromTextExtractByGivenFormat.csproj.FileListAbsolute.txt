@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\19. DatesFromTextExtractByGivenFormat\bin\Debug\_19.DatesFromTextExtractByGivenFormat.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\19. DatesFromTextExtractByGivenFormat\bin\Debug\_19.DatesFromTextExtractByGivenFormat.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\19. DatesFromTextExtractByGivenFormat\bin\Debug\_19.DatesFromTextExtractByGivenFormat.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\19. DatesFromTextExtractByGivenFormat\obj\Debug\_19.DatesFromTextExtractByGivenFormat.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\19. DatesFromTextExtractByGivenFormat\obj\Debug\_19.DatesFromTextExtractByGivenFormat.pdb

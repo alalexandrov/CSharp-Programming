@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\5. PrintingCurrentDateTime\bin\Debug\_5.PrintingCurrentDateTime.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\5. PrintingCurrentDateTime\bin\Debug\_5.PrintingCurrentDateTime.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\5. PrintingCurrentDateTime\bin\Debug\_5.PrintingCurrentDateTime.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\5. PrintingCurrentDateTime\obj\Debug\_5.PrintingCurrentDateTime.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\5. PrintingCurrentDateTime\obj\Debug\_5.PrintingCurrentDateTime.pdb

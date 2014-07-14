@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\4. PrintingFirstAndLastName\bin\Debug\_4.PrintingFirstAndLastName.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\4. PrintingFirstAndLastName\bin\Debug\_4.PrintingFirstAndLastName.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\4. PrintingFirstAndLastName\bin\Debug\_4.PrintingFirstAndLastName.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\4. PrintingFirstAndLastName\obj\Debug\_4.PrintingFirstAndLastName.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\4. PrintingFirstAndLastName\obj\Debug\_4.PrintingFirstAndLastName.pdb

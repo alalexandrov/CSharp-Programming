@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\2. BankAccountsClasses\bin\Debug\_2.BankAccountsClasses.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\2. BankAccountsClasses\bin\Debug\_2.BankAccountsClasses.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\2. BankAccountsClasses\bin\Debug\_2.BankAccountsClasses.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\2. BankAccountsClasses\obj\Debug\2. BankAccountsClasses.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\2. BankAccountsClasses\obj\Debug\_2.BankAccountsClasses.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-OOP-Principles-2\2. BankAccountsClasses\obj\Debug\_2.BankAccountsClasses.pdb

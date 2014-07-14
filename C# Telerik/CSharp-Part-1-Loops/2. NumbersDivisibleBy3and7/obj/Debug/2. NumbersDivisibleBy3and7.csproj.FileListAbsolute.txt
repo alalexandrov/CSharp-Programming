@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\2. NumbersDivisibleBy3and7\bin\Debug\_2.NumbersDivisibleBy3and7.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\2. NumbersDivisibleBy3and7\bin\Debug\_2.NumbersDivisibleBy3and7.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\2. NumbersDivisibleBy3and7\bin\Debug\_2.NumbersDivisibleBy3and7.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\2. NumbersDivisibleBy3and7\obj\Debug\2. NumbersDivisibleBy3and7.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\2. NumbersDivisibleBy3and7\obj\Debug\_2.NumbersDivisibleBy3and7.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\2. NumbersDivisibleBy3and7\obj\Debug\_2.NumbersDivisibleBy3and7.pdb

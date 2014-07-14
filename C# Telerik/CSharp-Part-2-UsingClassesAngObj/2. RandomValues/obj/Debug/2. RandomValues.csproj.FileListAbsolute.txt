@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\2. RandomValues\bin\Debug\_2.RandomValues.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\2. RandomValues\bin\Debug\_2.RandomValues.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\2. RandomValues\bin\Debug\_2.RandomValues.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\2. RandomValues\obj\Debug\2. RandomValues.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\2. RandomValues\obj\Debug\_2.RandomValues.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\2. RandomValues\obj\Debug\_2.RandomValues.pdb

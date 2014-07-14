@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\8. StringEscaping\bin\Debug\_8.StringEscaping.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\8. StringEscaping\bin\Debug\_8.StringEscaping.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\8. StringEscaping\bin\Debug\_8.StringEscaping.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\8. StringEscaping\obj\Debug\8. StringEscaping.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\8. StringEscaping\obj\Debug\_8.StringEscaping.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\8. StringEscaping\obj\Debug\_8.StringEscaping.pdb

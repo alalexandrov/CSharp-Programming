@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\7. SumOfNumbersCalc\bin\Debug\_7.SumOfNumbersCalc.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\7. SumOfNumbersCalc\bin\Debug\_7.SumOfNumbersCalc.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\7. SumOfNumbersCalc\bin\Debug\_7.SumOfNumbersCalc.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\7. SumOfNumbersCalc\obj\Debug\_7.SumOfNumbersCalc.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-ConsoleInputOutput\7. SumOfNumbersCalc\obj\Debug\_7.SumOfNumbersCalc.pdb

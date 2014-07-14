@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\22. WordsInTextOccurencesCount\bin\Debug\_22.WordsInTextOccurencesCount.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\22. WordsInTextOccurencesCount\bin\Debug\_22.WordsInTextOccurencesCount.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\22. WordsInTextOccurencesCount\bin\Debug\_22.WordsInTextOccurencesCount.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\22. WordsInTextOccurencesCount\obj\Debug\_22.WordsInTextOccurencesCount.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\22. WordsInTextOccurencesCount\obj\Debug\_22.WordsInTextOccurencesCount.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\22. WordsInTextOccurencesCount\obj\Debug\22. WordsInTextOccurencesCount.csprojResolveAssemblyReference.cache

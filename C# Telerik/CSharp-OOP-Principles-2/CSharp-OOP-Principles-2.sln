@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. ShapesClasses", "1. ShapesClasses\1. ShapesClasses.csproj", "{46884870-EF70-4EF1-9472-A37E08D430EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. BankAccountsClasses", "2. BankAccountsClasses\2. BankAccountsClasses.csproj", "{29FC2E0B-E1EA-43E1-BB9E-2EAEE40607F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. InvalidRangeExcImplement", "3. InvalidRangeExcImplement\3. InvalidRangeExcImplement.csproj", "{A40DEBAA-FDD1-4E16-B712-A54BB052A227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46884870-EF70-4EF1-9472-A37E08D430EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46884870-EF70-4EF1-9472-A37E08D430EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46884870-EF70-4EF1-9472-A37E08D430EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46884870-EF70-4EF1-9472-A37E08D430EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FC2E0B-E1EA-43E1-BB9E-2EAEE40607F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FC2E0B-E1EA-43E1-BB9E-2EAEE40607F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FC2E0B-E1EA-43E1-BB9E-2EAEE40607F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FC2E0B-E1EA-43E1-BB9E-2EAEE40607F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40DEBAA-FDD1-4E16-B712-A54BB052A227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40DEBAA-FDD1-4E16-B712-A54BB052A227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40DEBAA-FDD1-4E16-B712-A54BB052A227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40DEBAA-FDD1-4E16-B712-A54BB052A227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

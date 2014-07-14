@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\10. FindSequenceOfGivenSum\bin\Debug\_10.FindSequenceOfGivenSum.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\10. FindSequenceOfGivenSum\bin\Debug\_10.FindSequenceOfGivenSum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\10. FindSequenceOfGivenSum\bin\Debug\_10.FindSequenceOfGivenSum.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\10. FindSequenceOfGivenSum\obj\Debug\_10.FindSequenceOfGivenSum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\10. FindSequenceOfGivenSum\obj\Debug\_10.FindSequenceOfGivenSum.pdb

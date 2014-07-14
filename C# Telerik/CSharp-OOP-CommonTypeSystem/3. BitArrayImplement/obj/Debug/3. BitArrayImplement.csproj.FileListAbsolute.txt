@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\3. BitArrayImplement\bin\Debug\_3.BitArrayImplement.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\3. BitArrayImplement\bin\Debug\_3.BitArrayImplement.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\3. BitArrayImplement\bin\Debug\_3.BitArrayImplement.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\3. BitArrayImplement\obj\Debug\3. BitArrayImplement.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\3. BitArrayImplement\obj\Debug\_3.BitArrayImplement.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-CommonTypeSystem\3. BitArrayImplement\obj\Debug\_3.BitArrayImplement.pdb

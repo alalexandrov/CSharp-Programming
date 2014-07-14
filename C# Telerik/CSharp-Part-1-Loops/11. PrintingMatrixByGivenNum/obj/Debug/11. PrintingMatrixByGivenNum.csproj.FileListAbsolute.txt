@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\11. PrintingMatrixByGivenNum\bin\Debug\_11.PrintingMatrixByGivenNum.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\11. PrintingMatrixByGivenNum\bin\Debug\_11.PrintingMatrixByGivenNum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\11. PrintingMatrixByGivenNum\bin\Debug\_11.PrintingMatrixByGivenNum.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\11. PrintingMatrixByGivenNum\obj\Debug\_11.PrintingMatrixByGivenNum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\11. PrintingMatrixByGivenNum\obj\Debug\_11.PrintingMatrixByGivenNum.pdb

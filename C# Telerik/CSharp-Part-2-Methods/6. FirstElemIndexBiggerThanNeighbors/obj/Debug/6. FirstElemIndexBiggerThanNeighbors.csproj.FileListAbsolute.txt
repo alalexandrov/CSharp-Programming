@@ -1,0 +1,6 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\6. FirstElemIndexBiggerThanNeighbors\bin\Debug\_6.FirstElemIndexBiggerThanNeighbors.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\6. FirstElemIndexBiggerThanNeighbors\bin\Debug\_6.FirstElemIndexBiggerThanNeighbors.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\6. FirstElemIndexBiggerThanNeighbors\bin\Debug\_6.FirstElemIndexBiggerThanNeighbors.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\6. FirstElemIndexBiggerThanNeighbors\obj\Debug\6. FirstElemIndexBiggerThanNeighbors.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\6. FirstElemIndexBiggerThanNeighbors\obj\Debug\_6.FirstElemIndexBiggerThanNeighbors.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Methods\6. FirstElemIndexBiggerThanNeighbors\obj\Debug\_6.FirstElemIndexBiggerThanNeighbors.pdb

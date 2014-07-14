@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\5. AssigningCharacterVariable\bin\Debug\_5.AssigningCharacterVariable.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\5. AssigningCharacterVariable\bin\Debug\_5.AssigningCharacterVariable.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\5. AssigningCharacterVariable\bin\Debug\_5.AssigningCharacterVariable.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\5. AssigningCharacterVariable\obj\Debug\_5.AssigningCharacterVariable.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\5. AssigningCharacterVariable\obj\Debug\_5.AssigningCharacterVariable.pdb

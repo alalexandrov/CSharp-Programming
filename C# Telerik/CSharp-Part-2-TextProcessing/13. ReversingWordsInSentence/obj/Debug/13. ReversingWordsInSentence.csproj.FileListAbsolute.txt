@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\13. ReversingWordsInSentence\bin\Debug\_13.ReversingWordsInSentence.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\13. ReversingWordsInSentence\bin\Debug\_13.ReversingWordsInSentence.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\13. ReversingWordsInSentence\bin\Debug\_13.ReversingWordsInSentence.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\13. ReversingWordsInSentence\obj\Debug\_13.ReversingWordsInSentence.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\13. ReversingWordsInSentence\obj\Debug\_13.ReversingWordsInSentence.pdb

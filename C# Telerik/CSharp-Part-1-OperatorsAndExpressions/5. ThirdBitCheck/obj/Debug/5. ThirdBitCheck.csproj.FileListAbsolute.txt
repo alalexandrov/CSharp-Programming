@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\5. ThirdBitCheck\bin\Debug\_5.ThirdBitCheck.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\5. ThirdBitCheck\bin\Debug\_5.ThirdBitCheck.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\5. ThirdBitCheck\bin\Debug\_5.ThirdBitCheck.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\5. ThirdBitCheck\obj\Debug\_5.ThirdBitCheck.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\5. ThirdBitCheck\obj\Debug\_5.ThirdBitCheck.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-1-OperatorsAndExpressions\5. ThirdBitCheck\obj\Debug\5. ThirdBitCheck.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\21. LettersInStringOccurenceCount\bin\Debug\_21.LettersInStringOccurenceCount.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\21. LettersInStringOccurenceCount\bin\Debug\_21.LettersInStringOccurenceCount.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\21. LettersInStringOccurenceCount\bin\Debug\_21.LettersInStringOccurenceCount.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\21. LettersInStringOccurenceCount\obj\Debug\_21.LettersInStringOccurenceCount.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\21. LettersInStringOccurenceCount\obj\Debug\_21.LettersInStringOccurenceCount.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\21. LettersInStringOccurenceCount\obj\Debug\21. LettersInStringOccurenceCount.csprojResolveAssemblyReference.cache

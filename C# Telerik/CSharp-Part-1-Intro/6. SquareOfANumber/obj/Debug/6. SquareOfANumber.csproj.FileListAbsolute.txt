@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\6. SquareOfANumber\bin\Debug\_6.SquareOfANumber.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\6. SquareOfANumber\bin\Debug\_6.SquareOfANumber.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\6. SquareOfANumber\bin\Debug\_6.SquareOfANumber.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\6. SquareOfANumber\obj\Debug\_6.SquareOfANumber.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Intro\6. SquareOfANumber\obj\Debug\_6.SquareOfANumber.pdb

@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\15. GeneratingAllVariationsByGivenNk\bin\Debug\_15.GeneratingAllVariationsByGivenNk.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\15. GeneratingAllVariationsByGivenNk\bin\Debug\_15.GeneratingAllVariationsByGivenNk.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\15. GeneratingAllVariationsByGivenNk\bin\Debug\_15.GeneratingAllVariationsByGivenNk.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\15. GeneratingAllVariationsByGivenNk\obj\Debug\_15.GeneratingAllVariationsByGivenNk.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\15. GeneratingAllVariationsByGivenNk\obj\Debug\_15.GeneratingAllVariationsByGivenNk.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-Arrays\15. GeneratingAllVariationsByGivenNk\obj\Debug\15. GeneratingAllVariationsByGivenNk.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\11. ExchangingValues\bin\Debug\_11.ExchangingValues.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\11. ExchangingValues\bin\Debug\_11.ExchangingValues.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\11. ExchangingValues\bin\Debug\_11.ExchangingValues.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\11. ExchangingValues\obj\Debug\_11.ExchangingValues.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-PrimitiveDataTypes\11. ExchangingValues\obj\Debug\_11.ExchangingValues.pdb

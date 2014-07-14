@@ -1,0 +1,5 @@
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\12. RemoveAllGivenWordsFromFile\bin\Debug\_12.RemoveAllGivenWordsFromFile.exe.config
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\12. RemoveAllGivenWordsFromFile\bin\Debug\_12.RemoveAllGivenWordsFromFile.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\12. RemoveAllGivenWordsFromFile\bin\Debug\_12.RemoveAllGivenWordsFromFile.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\12. RemoveAllGivenWordsFromFile\obj\Debug\_12.RemoveAllGivenWordsFromFile.exe
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextFiles\12. RemoveAllGivenWordsFromFile\obj\Debug\_12.RemoveAllGivenWordsFromFile.pdb

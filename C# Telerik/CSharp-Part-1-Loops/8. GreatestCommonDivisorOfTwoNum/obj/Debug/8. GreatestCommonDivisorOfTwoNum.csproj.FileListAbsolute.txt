@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\8. GreatestCommonDivisorOfTwoNum\bin\Debug\_8.GreatestCommonDivisorOfTwoNum.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\8. GreatestCommonDivisorOfTwoNum\bin\Debug\_8.GreatestCommonDivisorOfTwoNum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\8. GreatestCommonDivisorOfTwoNum\bin\Debug\_8.GreatestCommonDivisorOfTwoNum.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\8. GreatestCommonDivisorOfTwoNum\obj\Debug\_8.GreatestCommonDivisorOfTwoNum.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\8. GreatestCommonDivisorOfTwoNum\obj\Debug\_8.GreatestCommonDivisorOfTwoNum.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-1-Loops\8. GreatestCommonDivisorOfTwoNum\obj\Debug\8. GreatestCommonDivisorOfTwoNum.csprojResolveAssemblyReference.cache

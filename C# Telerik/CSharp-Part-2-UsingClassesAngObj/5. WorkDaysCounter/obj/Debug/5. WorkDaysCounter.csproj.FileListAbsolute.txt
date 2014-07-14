@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\5. WorkDaysCounter\bin\Debug\_5.WorkDaysCounter.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\5. WorkDaysCounter\bin\Debug\_5.WorkDaysCounter.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\5. WorkDaysCounter\bin\Debug\_5.WorkDaysCounter.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\5. WorkDaysCounter\obj\Debug\_5.WorkDaysCounter.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\5. WorkDaysCounter\obj\Debug\_5.WorkDaysCounter.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-UsingClassesAngObj\5. WorkDaysCounter\obj\Debug\5. WorkDaysCounter.csprojResolveAssemblyReference.cache

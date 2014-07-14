@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\2. IEnumerableExtensions\obj\Debug\2. IEnumerableExtensions.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\2. IEnumerableExtensions\bin\Debug\_2.IEnumerableExtensions.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\2. IEnumerableExtensions\bin\Debug\_2.IEnumerableExtensions.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\2. IEnumerableExtensions\bin\Debug\_2.IEnumerableExtensions.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\2. IEnumerableExtensions\obj\Debug\_2.IEnumerableExtensions.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-OOP-ExMethodsDelegatesLambdaLINQ\2. IEnumerableExtensions\obj\Debug\_2.IEnumerableExtensions.pdb

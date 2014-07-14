@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\11. PrintingNumberInDifferentNotation\bin\Debug\_11.PrintingNumberInDifferentNotation.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\11. PrintingNumberInDifferentNotation\bin\Debug\_11.PrintingNumberInDifferentNotation.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\11. PrintingNumberInDifferentNotation\bin\Debug\_11.PrintingNumberInDifferentNotation.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\11. PrintingNumberInDifferentNotation\obj\Debug\_11.PrintingNumberInDifferentNotation.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\11. PrintingNumberInDifferentNotation\obj\Debug\_11.PrintingNumberInDifferentNotation.pdb
+C:\Users\Alexander\documents\visual studio 2013\Projects\CSharp-Part-2-TextProcessing\11. PrintingNumberInDifferentNotation\obj\Debug\11. PrintingNumberInDifferentNotation.csprojResolveAssemblyReference.cache
